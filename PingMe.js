@@ -14,7 +14,7 @@ hostname = api.pingmeapp.net
 */
 
 const scriptName = 'PingMe';
-const storeKey = 'pingme_accounts_v1';
+const storeKey = 'pingme_accounts_v2';
 const SECRET = '0fOiukQq7jXZV2GRi9LGlO';
 const MAX_VIDEO = 5;
 const VIDEO_DELAY = 8000;
