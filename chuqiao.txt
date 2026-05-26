@@ -3,7 +3,6 @@
 # Quantumult X 对 VLESS 支持有限,Reality 通常无法直接使用。
 # 此格式仅供参考,推荐使用 Shadowrocket / Stash / Loon。
 
-[server_local]
 vless=16.52.177.21:443, method=none, password=814bd064-544d-4255-a070-5705c03f6da9, obfs=wss, obfs-host=www.apple.com, tls-verification=true, tag=蒙特利尔 Pro 3, flow=xtls-rprx-vision
 vless=3.115.27.168:443, method=none, password=814bd064-544d-4255-a070-5705c03f6da9, obfs=wss, obfs-host=www.apple.com, tls-verification=true, tag=东京 3, flow=xtls-rprx-vision
 vless=3.115.27.168:443, method=none, password=814bd064-544d-4255-a070-5705c03f6da9, obfs=wss, obfs-host=www.apple.com, tls-verification=true, tag=东京 Pro 3, flow=xtls-rprx-vision
