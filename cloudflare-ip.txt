@@ -11,3 +11,12 @@ cloudflare-ip.mofashi.ltd:443#cloudflare-ip域名优选-->proxyip
 162.159.33.176:2096#S电信优选[70ms]-->proxyip
 188.164.248.249:2083#S电信优选[71ms]-->proxyip
 173.245.59.184:2096#S电信优选[71ms]-->proxyip
+
+103.75.118.144:2053#NRT-JP-Tokyo-9.57MB/s
+107.175.254.119:2083#SJC-US-San Jose-8.16MB/s
+139.84.168.252:2053#DEL-IN-New Delhi-5.52MB/s
+123.111.169.70:2083#ICN-KR-Seoul-5.23MB/s
+107.151.188.115:443#LAX-US-Los Angeles-4.65MB/s
+138.3.220.224:443#NRT-JP-Tokyo-3.80MB/s
+138.3.212.160:8443#NRT-JP-Tokyo-3.41MB/s
+123.111.169.70:2053#ICN-KR-Seoul-3.14MB/s
