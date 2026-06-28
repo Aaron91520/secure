@@ -1,33 +1,297 @@
-vless=saas.sin.fan:443, method=none, password=97910755-84b2-44ba-98ca-9591fbef76ce, obfs=wss, obfs-host=cacaca.hhhdl.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=cacaca.hhhdl.kdns.fr, fast-open=false, udp-relay=true, tag=别人的-saas域名优选
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: '127.0.0.1:9090'
 
-vless=cloudflare-ip.mofashi.ltd:443, method=none, password=97910755-84b2-44ba-98ca-9591fbef76ce, obfs=wss, obfs-host=cacaca.hhhdl.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=cacaca.hhhdl.kdns.fr, fast-open=false, udp-relay=true, tag=别人的-cloudflare-ip域名优选
+# 1. 节点定义
+proxies:
+  - name: "别人的-优选1-xinjiapo-8.79MB/s"
+    type: vless
+    server: 23.27.53.70
+    port: 28530
+    uuid: 97910755-84b2-44ba-98ca-9591fbef76ce
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: cacaca.hhhdl.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: cacaca.hhhdl.kdns.fr
+    udp: true
 
-vless=23.27.53.70:28530, method=none, password=97910755-84b2-44ba-98ca-9591fbef76ce, obfs=wss, obfs-host=cacaca.hhhdl.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=cacaca.hhhdl.kdns.fr, fast-open=false, udp-relay=true, tag=别人的-优选1-xinjiapo-8.79MB/s
+  - name: "别人的-优选2-xianggang-8.67MB/s"
+    type: vless
+    server: 23.27.96.106
+    port: 53387
+    uuid: 97910755-84b2-44ba-98ca-9591fbef76ce
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: cacaca.hhhdl.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: cacaca.hhhdl.kdns.fr
+    udp: true
 
-vless=23.27.96.106:53387, method=none, password=97910755-84b2-44ba-98ca-9591fbef76ce, obfs=wss, obfs-host=cacaca.hhhdl.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=cacaca.hhhdl.kdns.fr, fast-open=false, udp-relay=true, tag=别人的-优选2-xianggang-8.67MB/s
+  - name: "别人的-优选3-jilongpo-8.24MB/s"
+    type: vless
+    server: 23.27.53.142
+    port: 443
+    uuid: 97910755-84b2-44ba-98ca-9591fbef76ce
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: cacaca.hhhdl.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: cacaca.hhhdl.kdns.fr
+    udp: true
 
-vless=23.27.53.142:443, method=none, password=97910755-84b2-44ba-98ca-9591fbef76ce, obfs=wss, obfs-host=cacaca.hhhdl.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=cacaca.hhhdl.kdns.fr, fast-open=false, udp-relay=true, tag=别人的-优选3-jilongpo-8.24MB/s
+  - name: "别人的-优选4-xianggang-7.29MB/s"
+    type: vless
+    server: 108.165.255.179
+    port: 8443
+    uuid: 97910755-84b2-44ba-98ca-9591fbef76ce
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: cacaca.hhhdl.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: cacaca.hhhdl.kdns.fr
+    udp: true
 
-vless=108.165.255.179:8443, method=none, password=97910755-84b2-44ba-98ca-9591fbef76ce, obfs=wss, obfs-host=cacaca.hhhdl.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=cacaca.hhhdl.kdns.fr, fast-open=false, udp-relay=true, tag=别人的-优选4-xianggang-7.29MB/s
+  - name: "别人的-优选5-jilongpo-7.06MB/s"
+    type: vless
+    server: 23.27.113.159
+    port: 28416
+    uuid: 97910755-84b2-44ba-98ca-9591fbef76ce
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: cacaca.hhhdl.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: cacaca.hhhdl.kdns.fr
+    udp: true
 
-vless=23.27.113.159:28416, method=none, password=97910755-84b2-44ba-98ca-9591fbef76ce, obfs=wss, obfs-host=cacaca.hhhdl.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=cacaca.hhhdl.kdns.fr, fast-open=false, udp-relay=true, tag=别人的-优选5-jilongpo-7.06MB/s
+  - name: "别人的-优选6-jilongpo-6.86MB/s"
+    type: vless
+    server: 202.61.75.173
+    port: 443
+    uuid: 97910755-84b2-44ba-98ca-9591fbef76ce
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: cacaca.hhhdl.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: cacaca.hhhdl.kdns.fr
+    udp: true
 
-vless=202.61.75.173:443, method=none, password=97910755-84b2-44ba-98ca-9591fbef76ce, obfs=wss, obfs-host=cacaca.hhhdl.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=cacaca.hhhdl.kdns.fr, fast-open=false, udp-relay=true, tag=别人的-优选6-jilongpo-6.86MB/s
+  - name: "别人的-优选7-jilongpo-6.30MB/s"
+    type: vless
+    server: 198.20.153.3
+    port: 34972
+    uuid: 97910755-84b2-44ba-98ca-9591fbef76ce
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: cacaca.hhhdl.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: cacaca.hhhdl.kdns.fr
+    udp: true
 
-vless=198.20.153.3:34972, method=none, password=97910755-84b2-44ba-98ca-9591fbef76ce, obfs=wss, obfs-host=cacaca.hhhdl.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=cacaca.hhhdl.kdns.fr, fast-open=false, udp-relay=true, tag=别人的-优选7-jilongpo-6.30MB/s
+  - name: "别人的-优选8-xianggang-6.16MB/s"
+    type: vless
+    server: 23.27.48.216
+    port: 56197
+    uuid: 97910755-84b2-44ba-98ca-9591fbef76ce
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: cacaca.hhhdl.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: cacaca.hhhdl.kdns.fr
+    udp: true
 
-vless=23.27.48.216:56197, method=none, password=97910755-84b2-44ba-98ca-9591fbef76ce, obfs=wss, obfs-host=cacaca.hhhdl.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=cacaca.hhhdl.kdns.fr, fast-open=false, udp-relay=true, tag=别人的-优选8-xianggang-6.16MB/s
+  - name: "别人的-优选9-xianggang-6.12MB/s"
+    type: vless
+    server: 23.27.0.80
+    port: 555
+    uuid: 97910755-84b2-44ba-98ca-9591fbef76ce
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: cacaca.hhhdl.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: cacaca.hhhdl.kdns.fr
+    udp: true
 
-vless=23.27.0.80:555, method=none, password=97910755-84b2-44ba-98ca-9591fbef76ce, obfs=wss, obfs-host=cacaca.hhhdl.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=cacaca.hhhdl.kdns.fr, fast-open=false, udp-relay=true, tag=别人的-优选9-xianggang-6.12MB/s
+  - name: "别人的-优选10-jilongpo-5.83MB/s"
+    type: vless
+    server: 23.27.28.51
+    port: 60137
+    uuid: 97910755-84b2-44ba-98ca-9591fbef76ce
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: cacaca.hhhdl.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: cacaca.hhhdl.kdns.fr
+    udp: true
 
-vless=23.27.28.51:60137, method=none, password=97910755-84b2-44ba-98ca-9591fbef76ce, obfs=wss, obfs-host=cacaca.hhhdl.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=cacaca.hhhdl.kdns.fr, fast-open=false, udp-relay=true, tag=别人的-优选10-jilongpo-5.83MB/s
+  - name: "别人的-优选11-jilongpo-5.52MB/s"
+    type: vless
+    server: 205.186.67.71
+    port: 27697
+    uuid: 97910755-84b2-44ba-98ca-9591fbef76ce
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: cacaca.hhhdl.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: cacaca.hhhdl.kdns.fr
+    udp: true
 
-vless=205.186.67.71:27697, method=none, password=97910755-84b2-44ba-98ca-9591fbef76ce, obfs=wss, obfs-host=cacaca.hhhdl.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=cacaca.hhhdl.kdns.fr, fast-open=false, udp-relay=true, tag=别人的-优选11-jilongpo-5.52MB/s
+  - name: "别人的-优选12-xianggang-5.45MB/s"
+    type: vless
+    server: 23.26.201.193
+    port: 46571
+    uuid: 97910755-84b2-44ba-98ca-9591fbef76ce
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: cacaca.hhhdl.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: cacaca.hhhdl.kdns.fr
+    udp: true
 
-vless=23.26.201.193:46571, method=none, password=97910755-84b2-44ba-98ca-9591fbef76ce, obfs=wss, obfs-host=cacaca.hhhdl.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=cacaca.hhhdl.kdns.fr, fast-open=false, udp-relay=true, tag=别人的-优选12-xianggang-5.45MB/s
+  - name: "别人的-优选13-jilongpo-5.25MB/s"
+    type: vless
+    server: 45.134.36.45
+    port: 17810
+    uuid: 97910755-84b2-44ba-98ca-9591fbef76ce
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: cacaca.hhhdl.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: cacaca.hhhdl.kdns.fr
+    udp: true
 
-vless=45.134.36.45:17810, method=none, password=97910755-84b2-44ba-98ca-9591fbef76ce, obfs=wss, obfs-host=cacaca.hhhdl.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=cacaca.hhhdl.kdns.fr, fast-open=false, udp-relay=true, tag=别人的-优选13-jilongpo-5.25MB/s
+  - name: "别人的-优选14-xianggang-5.16MB/s"
+    type: vless
+    server: 23.27.48.47
+    port: 443
+    uuid: 97910755-84b2-44ba-98ca-9591fbef76ce
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: cacaca.hhhdl.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: cacaca.hhhdl.kdns.fr
+    udp: true
 
-vless=23.27.48.47:443, method=none, password=97910755-84b2-44ba-98ca-9591fbef76ce, obfs=wss, obfs-host=cacaca.hhhdl.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=cacaca.hhhdl.kdns.fr, fast-open=false, udp-relay=true, tag=别人的-优选14-xianggang-5.16MB/s
+  - name: "别人的-优选15-jilongpo-5.05MB/s"
+    type: vless
+    server: 23.27.53.63
+    port: 59641
+    uuid: 97910755-84b2-44ba-98ca-9591fbef76ce
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: cacaca.hhhdl.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: cacaca.hhhdl.kdns.fr
+    udp: true
 
-vless=23.27.53.63:59641, method=none, password=97910755-84b2-44ba-98ca-9591fbef76ce, obfs=wss, obfs-host=cacaca.hhhdl.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=cacaca.hhhdl.kdns.fr, fast-open=false, udp-relay=true, tag=别人的-优选15-jilongpo-5.05MB/s
+# 2. 策略组定义（自动加入上方所有节点）
+proxy-groups:
+  - name: 🚀 节点选择
+    type: select
+    proxies:
+      - 自动选择
+      - DIRECT
+      - 别人的-优选1-xinjiapo-8.79MB/s
+      - 别人的-优选2-xianggang-8.67MB/s
+      - 别人的-优选3-jilongpo-8.24MB/s
+      - 别人的-优选4-xianggang-7.29MB/s
+      - 别人的-优选5-jilongpo-7.06MB/s
+      - 别人的-优选6-jilongpo-6.86MB/s
+      - 别人的-优选7-jilongpo-6.30MB/s
+      - 别人的-优选8-xianggang-6.16MB/s
+      - 别人的-优选9-xianggang-6.12MB/s
+      - 别人的-优选10-jilongpo-5.83MB/s
+      - 别人的-优选11-jilongpo-5.52MB/s
+      - 别人的-优选12-xianggang-5.45MB/s
+      - 别人的-优选13-jilongpo-5.25MB/s
+      - 别人的-优选14-xianggang-5.16MB/s
+      - 别人的-优选15-jilongpo-5.05MB/s
+
+  - name: 自动选择
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - 别人的-优选1-xinjiapo-8.79MB/s
+      - 别人的-优选2-xianggang-8.67MB/s
+      - 别人的-优选3-jilongpo-8.24MB/s
+      - 别人的-优选4-xianggang-7.29MB/s
+      - 别人的-优选5-jilongpo-7.06MB/s
+      - 别人的-优选6-jilongpo-6.86MB/s
+      - 别人的-优选7-jilongpo-6.30MB/s
+      - 别人的-优选8-xianggang-6.16MB/s
+      - 别人的-优选9-xianggang-6.12MB/s
+      - 别人的-优选10-jilongpo-5.83MB/s
+      - 别人的-优选11-jilongpo-5.52MB/s
+      - 别人的-优选12-xianggang-5.45MB/s
+      - 别人的-优选13-jilongpo-5.25MB/s
+      - 别人的-优选14-xianggang-5.16MB/s
+      - 别人的-优选15-jilongpo-5.05MB/s
+
+# 3. 基础规则（全部走代理策略）
+rules:
+  - MATCH,🚀 节点选择
