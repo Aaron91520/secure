@@ -21,7 +21,7 @@ cloudflare-ip.mofashi.ltd:443#cloudflare-ip域名优选-->proxyip
 138.3.212.160:8443#NRT-JP-Tokyo-3.41MB/s
 123.111.169.70:2053#ICN-KR-Seoul-3.14MB/s
 
-#第三方的优选，落地大阪
+#第三方的优选ip，落地大阪cf cdn
 168.138.46.67:443#JP Osaka AS31898 Oracle Public Cloud
 140.83.50.165:443#JP Osaka AS13335 Cloudflare London, LLC
 138.2.59.112:443#JP Osaka AS31898 Oracle Corporation
