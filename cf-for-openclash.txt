@@ -1,3 +1,6 @@
+vless=cloudflare.czkcdn.cn:443, method=none, password=97910755-84b2-44ba-98ca-9591fbef76ce, obfs=wss, obfs-host=cacaca.hhhdl.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=cacaca.hhhdl.kdns.fr, fast-open=false, udp-relay=true, tag=♥哄哄CDN线路 G♥'
+
+
 #域名优选
 saas.sin.fan:443#saas域名优选-->proxyip
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip域名优选-->proxyip
