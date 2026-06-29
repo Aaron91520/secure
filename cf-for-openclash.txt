@@ -7,7 +7,23 @@ external-controller: '127.0.0.1:9090'
 
 # 1. 节点定义
 proxies:
-  - name: "别人的-优选1-xinjiapo-8.79MB/s"
+  - name: "别人的-优选1-xianggang"
+    type: vless
+    server: 43.168.16.112
+    port: 443
+    uuid: 97910755-84b2-44ba-98ca-9591fbef76ce
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: cacaca.hhhdl.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: cacaca.hhhdl.kdns.fr
+    udp: true
+
+  - name: "别人的-优选2-xinjiapo-8.79MB/s"
     type: vless
     server: 23.27.53.70
     port: 28530
@@ -23,7 +39,7 @@ proxies:
         Host: cacaca.hhhdl.kdns.fr
     udp: true
 
-  - name: "别人的-优选2-xianggang-8.67MB/s"
+  - name: "别人的-优选3-xianggang-8.67MB/s"
     type: vless
     server: 23.27.96.106
     port: 53387
@@ -39,7 +55,7 @@ proxies:
         Host: cacaca.hhhdl.kdns.fr
     udp: true
 
-  - name: "别人的-优选3-jilongpo-8.24MB/s"
+  - name: "别人的-优选4-jilongpo-8.24MB/s"
     type: vless
     server: 23.27.53.142
     port: 443
@@ -55,7 +71,7 @@ proxies:
         Host: cacaca.hhhdl.kdns.fr
     udp: true
 
-  - name: "别人的-优选4-xianggang-7.29MB/s"
+  - name: "别人的-优选5-xianggang-7.29MB/s"
     type: vless
     server: 108.165.255.179
     port: 8443
@@ -71,7 +87,7 @@ proxies:
         Host: cacaca.hhhdl.kdns.fr
     udp: true
 
-  - name: "别人的-优选5-jilongpo-7.06MB/s"
+  - name: "别人的-优选6-jilongpo-7.06MB/s"
     type: vless
     server: 23.27.113.159
     port: 28416
@@ -87,7 +103,7 @@ proxies:
         Host: cacaca.hhhdl.kdns.fr
     udp: true
 
-  - name: "别人的-优选6-jilongpo-6.86MB/s"
+  - name: "别人的-优选7-jilongpo-6.86MB/s"
     type: vless
     server: 202.61.75.173
     port: 443
@@ -103,7 +119,7 @@ proxies:
         Host: cacaca.hhhdl.kdns.fr
     udp: true
 
-  - name: "别人的-优选7-jilongpo-6.30MB/s"
+  - name: "别人的-优选8-jilongpo-6.30MB/s"
     type: vless
     server: 198.20.153.3
     port: 34972
@@ -119,7 +135,7 @@ proxies:
         Host: cacaca.hhhdl.kdns.fr
     udp: true
 
-  - name: "别人的-优选8-xianggang-6.16MB/s"
+  - name: "别人的-优选9-xianggang-6.16MB/s"
     type: vless
     server: 23.27.48.216
     port: 56197
@@ -135,7 +151,7 @@ proxies:
         Host: cacaca.hhhdl.kdns.fr
     udp: true
 
-  - name: "别人的-优选9-xianggang-6.12MB/s"
+  - name: "别人的-优选10-xianggang-6.12MB/s"
     type: vless
     server: 23.27.0.80
     port: 555
@@ -151,7 +167,7 @@ proxies:
         Host: cacaca.hhhdl.kdns.fr
     udp: true
 
-  - name: "别人的-优选10-jilongpo-5.83MB/s"
+  - name: "别人的-优选11-jilongpo-5.83MB/s"
     type: vless
     server: 23.27.28.51
     port: 60137
@@ -167,7 +183,7 @@ proxies:
         Host: cacaca.hhhdl.kdns.fr
     udp: true
 
-  - name: "别人的-优选11-jilongpo-5.52MB/s"
+  - name: "别人的-优选12-jilongpo-5.52MB/s"
     type: vless
     server: 205.186.67.71
     port: 27697
@@ -183,7 +199,7 @@ proxies:
         Host: cacaca.hhhdl.kdns.fr
     udp: true
 
-  - name: "别人的-优选12-xianggang-5.45MB/s"
+  - name: "别人的-优选13-xianggang-5.45MB/s"
     type: vless
     server: 23.26.201.193
     port: 46571
@@ -199,7 +215,7 @@ proxies:
         Host: cacaca.hhhdl.kdns.fr
     udp: true
 
-  - name: "别人的-优选13-jilongpo-5.25MB/s"
+  - name: "别人的-优选14-jilongpo-5.25MB/s"
     type: vless
     server: 45.134.36.45
     port: 17810
@@ -215,7 +231,7 @@ proxies:
         Host: cacaca.hhhdl.kdns.fr
     udp: true
 
-  - name: "别人的-优选14-xianggang-5.16MB/s"
+  - name: "别人的-优选15-xianggang-5.16MB/s"
     type: vless
     server: 23.27.48.47
     port: 443
@@ -231,7 +247,7 @@ proxies:
         Host: cacaca.hhhdl.kdns.fr
     udp: true
 
-  - name: "别人的-优选15-jilongpo-5.05MB/s"
+  - name: "别人的-优选16-jilongpo-5.05MB/s"
     type: vless
     server: 23.27.53.63
     port: 59641
@@ -254,21 +270,22 @@ proxy-groups:
     proxies:
       - 自动选择
       - DIRECT
-      - 别人的-优选1-xinjiapo-8.79MB/s
-      - 别人的-优选2-xianggang-8.67MB/s
-      - 别人的-优选3-jilongpo-8.24MB/s
-      - 别人的-优选4-xianggang-7.29MB/s
-      - 别人的-优选5-jilongpo-7.06MB/s
-      - 别人的-优选6-jilongpo-6.86MB/s
-      - 别人的-优选7-jilongpo-6.30MB/s
-      - 别人的-优选8-xianggang-6.16MB/s
-      - 别人的-优选9-xianggang-6.12MB/s
-      - 别人的-优选10-jilongpo-5.83MB/s
-      - 别人的-优选11-jilongpo-5.52MB/s
-      - 别人的-优选12-xianggang-5.45MB/s
-      - 别人的-优选13-jilongpo-5.25MB/s
-      - 别人的-优选14-xianggang-5.16MB/s
-      - 别人的-优选15-jilongpo-5.05MB/s
+      - 别人的-优选1-xianggang
+      - 别人的-优选2-xinjiapo-8.79MB/s
+      - 别人的-优选3-xianggang-8.67MB/s
+      - 别人的-优选4-jilongpo-8.24MB/s
+      - 别人的-优选5-xianggang-7.29MB/s
+      - 别人的-优选6-jilongpo-7.06MB/s
+      - 别人的-优选7-jilongpo-6.86MB/s
+      - 别人的-优选8-jilongpo-6.30MB/s
+      - 别人的-优选9-xianggang-6.16MB/s
+      - 别人的-优选10-xianggang-6.12MB/s
+      - 别人的-优选11-jilongpo-5.83MB/s
+      - 别人的-优选12-jilongpo-5.52MB/s
+      - 别人的-优选13-xianggang-5.45MB/s
+      - 别人的-优选14-jilongpo-5.25MB/s
+      - 别人的-优选15-xianggang-5.16MB/s
+      - 别人的-优选16-jilongpo-5.05MB/s
 
   - name: 自动选择
     type: url-test
@@ -276,21 +293,22 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 别人的-优选1-xinjiapo-8.79MB/s
-      - 别人的-优选2-xianggang-8.67MB/s
-      - 别人的-优选3-jilongpo-8.24MB/s
-      - 别人的-优选4-xianggang-7.29MB/s
-      - 别人的-优选5-jilongpo-7.06MB/s
-      - 别人的-优选6-jilongpo-6.86MB/s
-      - 别人的-优选7-jilongpo-6.30MB/s
-      - 别人的-优选8-xianggang-6.16MB/s
-      - 别人的-优选9-xianggang-6.12MB/s
-      - 别人的-优选10-jilongpo-5.83MB/s
-      - 别人的-优选11-jilongpo-5.52MB/s
-      - 别人的-优选12-xianggang-5.45MB/s
-      - 别人的-优选13-jilongpo-5.25MB/s
-      - 别人的-优选14-xianggang-5.16MB/s
-      - 别人的-优选15-jilongpo-5.05MB/s
+      - 别人的-优选1-xianggang
+      - 别人的-优选2-xinjiapo-8.79MB/s
+      - 别人的-优选3-xianggang-8.67MB/s
+      - 别人的-优选4-jilongpo-8.24MB/s
+      - 别人的-优选5-xianggang-7.29MB/s
+      - 别人的-优选6-jilongpo-7.06MB/s
+      - 别人的-优选7-jilongpo-6.86MB/s
+      - 别人的-优选8-jilongpo-6.30MB/s
+      - 别人的-优选9-xianggang-6.16MB/s
+      - 别人的-优选10-xianggang-6.12MB/s
+      - 别人的-优选11-jilongpo-5.83MB/s
+      - 别人的-优选12-jilongpo-5.52MB/s
+      - 别人的-优选13-xianggang-5.45MB/s
+      - 别人的-优选14-jilongpo-5.25MB/s
+      - 别人的-优选15-xianggang-5.16MB/s
+      - 别人的-优选16-jilongpo-5.05MB/s
 
 # 3. 基础规则（全部走代理策略）
 rules:
