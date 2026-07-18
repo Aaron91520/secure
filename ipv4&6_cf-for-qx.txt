@@ -1,87 +1,91 @@
-vless=47.75.104.254:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选1-9.45MB/s-北美-Meiguo-shenghezai-12ms
+# 🌏 亚太地区 (Asia Pacific)
+vless=202.61.72.160:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选1-8.54MB/s-亚太-Xianggang-xianggang-83ms
 
-vless=202.61.72.160:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选2-8.54MB/s-亚太-Xianggang-xianggang-83ms
+vless=45.134.36.4:28854, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选2-8.26MB/s-亚太-Xinjiapo-xinjiapo-55ms
 
-vless=45.134.36.4:28854, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选3-8.26MB/s-亚太-Xinjiapo-xinjiapo-55ms
+vless=47.239.237.237:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选3-7.84MB/s-亚太-Xianggang-xianggang-9ms
 
-vless=47.239.237.237:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选4-7.84MB/s-亚太-Xianggang-xianggang-9ms
+vless=50.114.5.175:40356, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选4-7.74MB/s-亚太-Malai-jilongpo-55ms
 
-vless=50.114.5.175:40356, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选5-7.74MB/s-亚太-Malai-jilongpo-55ms
+vless=23.27.113.159:28416, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选5-7.65MB/s-亚太-Malai-jilongpo-57ms
 
-vless=23.27.113.159:28416, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选6-7.65MB/s-亚太-Malai-jilongpo-57ms
+vless=151.158.0.128:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选6-7.12MB/s-亚太-Xianggang-xianggang-84ms
 
-vless=151.158.0.128:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选7-7.12MB/s-亚太-Xianggang-xianggang-84ms
+vless=45.134.36.45:32196, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选7-6.81MB/s-亚太-Malai-jilongpo-55ms
 
-vless=45.134.36.45:32196, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选8-6.81MB/s-亚太-Malai-jilongpo-55ms
+vless=50.114.5.102:48899, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选8-6.26MB/s-亚太-Xinjiapo-xinjiapo-56ms
 
-vless=50.114.5.102:48899, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选9-6.26MB/s-亚太-Xinjiapo-xinjiapo-56ms
+vless=23.27.53.246:47615, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选9-5.90MB/s-亚太-Malai-jilongpo-55ms
 
-vless=23.27.53.246:47615, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选10-5.90MB/s-亚太-Malai-jilongpo-55ms
+vless=205.186.67.171:54557, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选10-5.67MB/s-亚太-Malai-jilongpo-58ms
 
-vless=205.186.67.171:54557, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选11-5.67MB/s-亚太-Malai-jilongpo-58ms
+vless=205.186.67.190:51637, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选11-5.65MB/s-亚太-Malai-jilongpo-55ms
 
-vless=205.186.67.190:51637, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选12-5.65MB/s-亚太-Malai-jilongpo-55ms
+vless=166.88.141.226:34610, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选12-5.25MB/s-亚太-Xianggang-xianggang-86ms
 
-vless=166.88.141.226:34610, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选13-5.25MB/s-亚太-Xianggang-xianggang-86ms
+vless=142.111.146.29:3037, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选13-4.90MB/s-亚太-Malai-jilongpo-54ms
 
-vless=134.199.180.23:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选14-5.18MB/s-北美-Meiguo-shenghezai-170ms
+vless=23.27.199.191:22028, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选14-4.89MB/s-亚太-Malai-jilongpo-59ms
 
-vless=142.111.146.29:3037, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选15-4.90MB/s-亚太-Malai-jilongpo-54ms
+vless=96.126.179.246:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选15-4.71MB/s-亚太-Xianggang-xianggang-81ms
 
-vless=23.27.199.191:22028, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选16-4.89MB/s-亚太-Malai-jilongpo-59ms
+vless=45.134.36.163:34573, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选16-4.54MB/s-亚太-Malai-jilongpo-60ms
 
-vless=193.181.211.218:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选17-4.89MB/s-欧洲-Danmai-gebenhagen-201ms
+vless=168.110.101.249:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选17-4.48MB/s-亚太-Hanguo-shouer-80ms
 
-vless=96.126.179.246:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选18-4.71MB/s-亚太-Xianggang-xianggang-81ms
+vless=142.111.143.220:59890, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选18-4.42MB/s-亚太-Malai-jilongpo-54ms
 
-vless=45.147.48.28:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选19-4.57MB/s-欧洲-Deguo-falanfuke-182ms
+vless=23.27.28.51:60137, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选19-4.37MB/s-亚太-Malai-jilongpo-55ms
 
-vless=45.134.36.163:34573, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选20-4.54MB/s-亚太-Malai-jilongpo-60ms
+vless=45.134.36.163:43976, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选20-4.34MB/s-亚太-Malai-jilongpo-56ms
 
-vless=168.110.101.249:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选21-4.48MB/s-亚太-Hanguo-shouer-80ms
+vless=140.245.71.120:34237, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选21-3.52MB/s-亚太-Hanguo-shouer-81ms
 
-vless=142.111.143.220:59890, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选22-4.42MB/s-亚太-Malai-jilongpo-54ms
+vless=168.93.198.49:19726, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选22-4.13MB/s-亚太-Malai-jilongpo-54ms
 
-vless=23.27.28.51:60137, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选23-4.37MB/s-亚太-Malai-jilongpo-55ms
+# 🦅 北美地区 (North America)
+vless=47.75.104.254:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选23-9.45MB/s-北美-Meiguo-shenghezai-12ms
 
-vless=45.134.36.163:43976, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选24-4.34MB/s-亚太-Malai-jilongpo-56ms
+vless=134.199.180.23:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选24-5.18MB/s-北美-Meiguo-shenghezai-170ms
 
-vless=193.177.221.29:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选25-4.28MB/s-大洋洲-Aodaliya-xini-212ms
+vless=129.146.242.248:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选25-3.27MB/s-北美-Meiguo-luoshanji-172ms
 
-vless=168.93.198.49:19726, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选26-4.13MB/s-亚太-Malai-jilongpo-54ms
+vless=129.153.214.154:8443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选26-3.20MB/s-北美-Meiguo-luoshanji-180ms
 
-vless=78.47.146.151:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选27-3.97MB/s-欧洲-Deguo-falanfuke-200ms
+# 🇪🇺 欧洲地区 (Europe)
+vless=193.181.211.218:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选27-4.89MB/s-欧洲-Danmai-gebenhagen-201ms
 
-vless=89.127.207.150:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选28-3.87MB/s-欧洲-Ruidian-gebenhagen-240ms
+vless=45.147.48.28:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选28-4.57MB/s-欧洲-Deguo-falanfuke-182ms
 
-vless=80.78.23.165:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选29-3.60MB/s-欧洲-Ruidian-aosiluo-237ms
+vless=78.47.146.151:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选29-3.97MB/s-欧洲-Deguo-falanfuke-200ms
 
-vless=104.249.40.219:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选30-3.53MB/s-欧洲-Helan-amutesidan-220ms
+vless=89.127.207.150:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选30-3.87MB/s-欧洲-Ruidian-gebenhagen-240ms
 
-vless=140.245.71.120:34237, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选31-3.52MB/s-亚太-Hanguo-shouer-81ms
+vless=80.78.23.165:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选31-3.60MB/s-欧洲-Ruidian-aosiluo-237ms
 
-vless=78.17.113.202:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选32-3.47MB/s-欧洲-Fenlan-heersinki-231ms
+vless=104.249.40.219:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选32-3.53MB/s-欧洲-Helan-amutesidan-220ms
 
-vless=195.189.96.247:8443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选33-3.46MB/s-欧洲-Helan-amutesidan-205ms
+vless=78.17.113.202:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选33-3.47MB/s-欧洲-Fenlan-heersinki-231ms
 
-vless=94.72.143.231:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选34-3.44MB/s-欧洲-Baogaliya-suofiya-233ms
+vless=195.189.96.247:8443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选34-3.46MB/s-欧洲-Helan-amutesidan-205ms
 
-vless=91.108.241.188:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选35-3.41MB/s-欧洲-Yingguo-falanfuke-269ms
+vless=94.72.143.231:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选35-3.44MB/s-欧洲-Baogaliya-suofiya-233ms
 
-vless=157.22.179.184:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选36-3.35MB/s-欧洲-Helan-amutesidan-255ms
+vless=91.108.241.188:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选36-3.41MB/s-欧洲-Yingguo-falanfuke-269ms
 
-vless=153.76.116.102:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选37-3.34MB/s-欧洲-Helan-amutesidan-211ms
+vless=157.22.179.184:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选37-3.35MB/s-欧洲-Helan-amutesidan-255ms
 
-vless=129.146.242.248:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选38-3.27MB/s-北美-Meiguo-luoshanji-172ms
+vless=153.76.116.102:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选38-3.34MB/s-欧洲-Helan-amutesidan-211ms
 
-vless=129.153.214.154:8443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选39-3.20MB/s-北美-Meiguo-luoshanji-180ms
+vless=95.179.168.228:8443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选39-3.20MB/s-欧洲-Deguo-falanfuke-211ms
 
-vless=95.179.168.228:8443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选40-3.20MB/s-欧洲-Deguo-falanfuke-211ms
+vless=2.26.83.202:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选40-3.11MB/s-欧洲-Helan-amutesidan-213ms
 
-vless=2.26.83.202:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选41-3.11MB/s-欧洲-Helan-amutesidan-213ms
+vless=146.70.20.100:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选41-3.09MB/s-欧洲-Deguo-falanfuke-226ms
 
-vless=146.70.20.100:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选42-3.09MB/s-欧洲-Deguo-falanfuke-226ms
+vless=45.150.32.112:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选42-3.04MB/s-欧洲-Deguo-falanfuke-266ms
 
-vless=45.150.32.112:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选43-3.04MB/s-欧洲-Deguo-falanfuke-266ms
+vless=77.37.96.247:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选43-3.01MB/s-欧洲-Danmai-gebenhagen-214ms
 
-vless=77.37.96.247:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选44-3.01MB/s-欧洲-Danmai-gebenhagen-214ms
+# 🦘 大洋洲 (Oceania)
+vless=193.177.221.29:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人-优选44-4.28MB/s-大洋洲-Aodaliya-xini-212ms
