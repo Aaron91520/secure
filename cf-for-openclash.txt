@@ -659,3 +659,228 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
+  - name: "别人-优选1-9.63MB/s-亚太-Xianggang-xianggang-36ms"
+    type: vless
+    server: 154.12.188.210
+    port: 2096
+    uuid: 652ff060-1aee-4cc4-8167-30bb5c75d255
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: hhgy.hh0mg.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: hhgy.hh0mg.kdns.fr
+    udp: true
+  - name: "别人-优选2-7.87MB/s-北美-Meiguo-dalasi-163ms"
+    type: vless
+    server: 107.155.87.102
+    port: 8443
+    uuid: 652ff060-1aee-4cc4-8167-30bb5c75d255
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: hhgy.hh0mg.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: hhgy.hh0mg.kdns.fr
+    udp: true
+  - name: "别人-优选3-7.86MB/s-亚太-Ribeng-dongjing-76ms"
+    type: vless
+    server: 154.83.91.206
+    port: 443
+    uuid: 652ff060-1aee-4cc4-8167-30bb5c75d255
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: hhgy.hh0mg.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: hhgy.hh0mg.kdns.fr
+    udp: true
+  - name: "别人-优选4-7.72MB/s-北美-Meiguo-luoshanji-163ms"
+    type: vless
+    server: 104.168.24.34
+    port: 443
+    uuid: 652ff060-1aee-4cc4-8167-30bb5c75d255
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: hhgy.hh0mg.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: hhgy.hh0mg.kdns.fr
+    udp: true
+  - name: "别人-优选5-7.05MB/s-北美-Meiguo-luoshanji-161ms"
+    type: vless
+    server: 142.248.218.15
+    port: 2053
+    uuid: 652ff060-1aee-4cc4-8167-30bb5c75d255
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: hhgy.hh0mg.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: hhgy.hh0mg.kdns.fr
+    udp: true
+  - name: "别人-优选6-6.27MB/s-北美-Meiguo-shenghezai-156ms"
+    type: vless
+    server: 104.168.88.47
+    port: 8443
+    uuid: 652ff060-1aee-4cc4-8167-30bb5c75d255
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: hhgy.hh0mg.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: hhgy.hh0mg.kdns.fr
+    udp: true
+  - name: "别人-优选7-6.23MB/s-亚太-Hanguo-shouer-66ms"
+    type: vless
+    server: 123.111.169.70
+    port: 2083
+    uuid: 652ff060-1aee-4cc4-8167-30bb5c75d255
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: hhgy.hh0mg.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: hhgy.hh0mg.kdns.fr
+    udp: true
+  - name: "别人-优选8-5.73MB/s-亚太-Ribeng-daban-91ms"
+    type: vless
+    server: 166.88.98.246
+    port: 443
+    uuid: 652ff060-1aee-4cc4-8167-30bb5c75d255
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: hhgy.hh0mg.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: hhgy.hh0mg.kdns.fr
+    udp: true
+  - name: "别人-优选9-5.63MB/s-北美-Meiguo-luoshanji-162ms"
+    type: vless
+    server: 142.248.218.111
+    port: 2053
+    uuid: 652ff060-1aee-4cc4-8167-30bb5c75d255
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: hhgy.hh0mg.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: hhgy.hh0mg.kdns.fr
+    udp: true
+  - name: "别人-优选10-5.59MB/s-北美-Meiguo-shenghezai-159ms"
+    type: vless
+    server: 147.224.59.149
+    port: 443
+    uuid: 652ff060-1aee-4cc4-8167-30bb5c75d255
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: hhgy.hh0mg.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: hhgy.hh0mg.kdns.fr
+    udp: true
+  - name: "别人-优选11-5.44MB/s-北美-Meiguo-luoshanji-163ms"
+    type: vless
+    server: 149.28.94.52
+    port: 443
+    uuid: 652ff060-1aee-4cc4-8167-30bb5c75d255
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: hhgy.hh0mg.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: hhgy.hh0mg.kdns.fr
+    udp: true
+  - name: "别人-优选12-5.44MB/s-北美-Meiguo-shenghezai-158ms"
+    type: vless
+    server: 107.174.252.170
+    port: 2087
+    uuid: 652ff060-1aee-4cc4-8167-30bb5c75d255
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: hhgy.hh0mg.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: hhgy.hh0mg.kdns.fr
+    udp: true
+  - name: "别人-优选13-5.41MB/s-亚太-Ribeng-dongjing-99ms"
+    type: vless
+    server: 140.235.37.85
+    port: 443
+    uuid: 652ff060-1aee-4cc4-8167-30bb5c75d255
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: hhgy.hh0mg.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: hhgy.hh0mg.kdns.fr
+    udp: true
+  - name: "别人-优选14-5.40MB/s-亚太-Ribeng-dongjing-80ms"
+    type: vless
+    server: 147.79.20.197
+    port: 443
+    uuid: 652ff060-1aee-4cc4-8167-30bb5c75d255
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: hhgy.hh0mg.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: hhgy.hh0mg.kdns.fr
+    udp: true
+  - name: "别人-优选15-5.35MB/s-北美-Meiguo-luoshanji-163ms"
+    type: vless
+    server: 142.248.218.105
+    port: 2053
+    uuid: 652ff060-1aee-4cc4-8167-30bb5c75d255
+    cipher: none
+    tls: true
+    skip-cert-verify: true
+    servername: hhgy.hh0mg.kdns.fr
+    network: ws
+    ws-opts:
+      path: /
+      headers:
+        Host: hhgy.hh0mg.kdns.fr
+    udp: true
