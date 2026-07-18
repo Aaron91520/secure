@@ -1,5 +1,5 @@
 proxies:
-  - name: "别人-优选1-9.45MB/s-43.110.75.248-Meiguo-北美-12ms"
+  - name: "别人-优选1-9.45MB/s-北美-Meiguo-shenghezai-12ms"
     type: vless
     server: 47.75.104.254
     port: 443
@@ -14,7 +14,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选2-8.54MB/s-2400:8d60:6::c8f9:28d8-Xianggang-亚太-83ms"
+  - name: "别人-优选2-8.54MB/s-亚太-Xianggang-xianggang-83ms"
     type: vless
     server: 202.61.72.160
     port: 443
@@ -29,7 +29,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选3-8.26MB/s-45.134.36.4-Xinjiapo-亚太-55ms"
+  - name: "别人-优选3-8.26MB/s-亚太-Xinjiapo-xinjiapo-55ms"
     type: vless
     server: 45.134.36.4
     port: 28854
@@ -44,7 +44,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选4-7.84MB/s-47.239.237.237-Xianggang-亚太-9ms"
+  - name: "别人-优选4-7.84MB/s-亚太-Xianggang-xianggang-9ms"
     type: vless
     server: 47.239.237.237
     port: 443
@@ -59,7 +59,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选5-7.74MB/s-2400:8d60:3::1:c96f:4c8-Malai-亚太-55ms"
+  - name: "别人-优选5-7.74MB/s-亚太-Malai-jilongpo-55ms"
     type: vless
     server: 50.114.5.175
     port: 40356
@@ -74,7 +74,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选6-7.65MB/s-203.25.78.254-Malai-亚太-57ms"
+  - name: "别人-优选6-7.65MB/s-亚太-Malai-jilongpo-57ms"
     type: vless
     server: 23.27.113.159
     port: 28416
@@ -89,7 +89,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选7-7.12MB/s-151.158.0.128-Xianggang-亚太-84ms"
+  - name: "别人-优选7-7.12MB/s-亚太-Xianggang-xianggang-84ms"
     type: vless
     server: 151.158.0.128
     port: 443
@@ -104,7 +104,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选8-6.81MB/s-2400:8d60:3::4beb:bfa8-Malai-亚太-55ms"
+  - name: "别人-优选8-6.81MB/s-亚太-Malai-jilongpo-55ms"
     type: vless
     server: 45.134.36.45
     port: 32196
@@ -119,7 +119,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选9-6.26MB/s-2400:8d60:3::1:5124:ebce-Xinjiapo-亚太-56ms"
+  - name: "别人-优选9-6.26MB/s-亚太-Xinjiapo-xinjiapo-56ms"
     type: vless
     server: 50.114.5.102
     port: 48899
@@ -134,7 +134,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选10-5.90MB/s-2400:8d60:3::745:593e-Malai-亚太-55ms"
+  - name: "别人-优选10-5.90MB/s-亚太-Malai-jilongpo-55ms"
     type: vless
     server: 23.27.53.246
     port: 47615
@@ -149,7 +149,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选11-5.67MB/s-2400:8d60:3::1:4144:fa4-Malai-亚太-58ms"
+  - name: "别人-优选11-5.67MB/s-亚太-Malai-jilongpo-58ms"
     type: vless
     server: 205.186.67.171
     port: 54557
@@ -164,7 +164,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选12-5.65MB/s-2400:8d60:3::d64:8b67-Malai-亚太-55ms"
+  - name: "别人-优选12-5.65MB/s-亚太-Malai-jilongpo-55ms"
     type: vless
     server: 205.186.67.190
     port: 51637
@@ -179,7 +179,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选13-5.25MB/s-2400:8d60:6::d0d8:807d-Xianggang-亚太-86ms"
+  - name: "别人-优选13-5.25MB/s-亚太-Xianggang-xianggang-86ms"
     type: vless
     server: 166.88.141.226
     port: 34610
@@ -194,7 +194,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选14-5.18MB/s-2604:a880:2:d1:0:1:9b1:4001-Meiguo-北美-170ms"
+  - name: "别人-优选14-5.18MB/s-北美-Meiguo-shenghezai-170ms"
     type: vless
     server: 134.199.180.23
     port: 443
@@ -209,7 +209,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选15-4.90MB/s-142.111.146.29-Malai-亚太-54ms"
+  - name: "别人-优选15-4.90MB/s-亚太-Malai-jilongpo-54ms"
     type: vless
     server: 142.111.146.29
     port: 3037
@@ -224,7 +224,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选16-4.89MB/s-2400:8d60:3::42fe:e1c4-Malai-亚太-59ms"
+  - name: "别人-优选16-4.89MB/s-亚太-Malai-jilongpo-59ms"
     type: vless
     server: 23.27.199.191
     port: 22028
@@ -239,7 +239,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选17-4.89MB/s-2a0f:f01:208:3db::-Danmai-欧洲-201ms"
+  - name: "别人-优选17-4.89MB/s-欧洲-Danmai-gebenhagen-201ms"
     type: vless
     server: 193.181.211.218
     port: 443
@@ -254,7 +254,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选18-4.71MB/s-2400:8d60:6::4d14:e49a-Xianggang-亚太-81ms"
+  - name: "别人-优选18-4.71MB/s-亚太-Xianggang-xianggang-81ms"
     type: vless
     server: 96.126.179.246
     port: 443
@@ -269,7 +269,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选19-4.57MB/s-2a09:0:9::82-Deguo-欧洲-182ms"
+  - name: "别人-优选19-4.57MB/s-欧洲-Deguo-falanfuke-182ms"
     type: vless
     server: 45.147.48.28
     port: 443
@@ -284,7 +284,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选20-4.54MB/s-2400:8d60:3::b32d:ed22-Malai-亚太-60ms"
+  - name: "别人-优选20-4.54MB/s-亚太-Malai-jilongpo-60ms"
     type: vless
     server: 45.134.36.163
     port: 34573
@@ -299,7 +299,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选21-4.48MB/s-168.110.101.249-Hanguo-亚太-80ms"
+  - name: "别人-优选21-4.48MB/s-亚太-Hanguo-shouer-80ms"
     type: vless
     server: 168.110.101.249
     port: 443
@@ -314,7 +314,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选22-4.42MB/s-2400:8d60:3::1:6ced:79df-Malai-亚太-54ms"
+  - name: "别人-优选22-4.42MB/s-亚太-Malai-jilongpo-54ms"
     type: vless
     server: 142.111.143.220
     port: 59890
@@ -329,7 +329,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选23-4.37MB/s-2400:8d60:3::5592:1f2d-Malai-亚太-55ms"
+  - name: "别人-优选23-4.37MB/s-亚太-Malai-jilongpo-55ms"
     type: vless
     server: 23.27.28.51
     port: 60137
@@ -344,7 +344,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选24-4.34MB/s-2400:8d60:3::b32d:ed22-Malai-亚太-56ms"
+  - name: "别人-优选24-4.34MB/s-亚太-Malai-jilongpo-56ms"
     type: vless
     server: 45.134.36.163
     port: 43976
@@ -359,7 +359,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选25-4.28MB/s-193.177.221.29-Aodaliya-大洋洲-212ms"
+  - name: "别人-优选25-4.28MB/s-大洋洲-Aodaliya-xini-212ms"
     type: vless
     server: 193.177.221.29
     port: 443
@@ -374,7 +374,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选26-4.13MB/s-166.1.249.211-Malai-亚太-54ms"
+  - name: "别人-优选26-4.13MB/s-亚太-Malai-jilongpo-54ms"
     type: vless
     server: 168.93.198.49
     port: 19726
@@ -389,7 +389,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选27-3.97MB/s-78.47.146.151-Deguo-欧洲-200ms"
+  - name: "别人-优选27-3.97MB/s-欧洲-Deguo-falanfuke-200ms"
     type: vless
     server: 78.47.146.151
     port: 443
@@ -404,7 +404,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选28-3.87MB/s-89.127.207.150-Ruidian-欧洲-240ms"
+  - name: "别人-优选28-3.87MB/s-欧洲-Ruidian-gebenhagen-240ms"
     type: vless
     server: 89.127.207.150
     port: 443
@@ -419,7 +419,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选29-3.60MB/s-2a0a:3840:8078:23:0:504e:17a5:1337-Ruidian-欧洲-237ms"
+  - name: "别人-优选29-3.60MB/s-欧洲-Ruidian-aosiluo-237ms"
     type: vless
     server: 80.78.23.165
     port: 443
@@ -434,7 +434,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选30-3.53MB/s-104.249.40.219-Helan-欧洲-220ms"
+  - name: "别人-优选30-3.53MB/s-欧洲-Helan-amutesidan-220ms"
     type: vless
     server: 104.249.40.219
     port: 443
@@ -449,7 +449,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选31-3.52MB/s-2a09:bac1:3f40:b8::22:134-Hanguo-亚太-81ms"
+  - name: "别人-优选31-3.52MB/s-亚太-Hanguo-shouer-81ms"
     type: vless
     server: 140.245.71.120
     port: 34237
@@ -464,7 +464,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选32-3.47MB/s-2a09:bac1:2560::48e:6c-Fenlan-欧洲-231ms"
+  - name: "别人-优选32-3.47MB/s-欧洲-Fenlan-heersinki-231ms"
     type: vless
     server: 78.17.113.202
     port: 443
@@ -479,7 +479,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选33-3.46MB/s-195.189.96.247-Helan-欧洲-205ms"
+  - name: "别人-优选33-3.46MB/s-欧洲-Helan-amutesidan-205ms"
     type: vless
     server: 195.189.96.247
     port: 8443
@@ -494,7 +494,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选34-3.44MB/s-2a01:8740:1:5fa::ba4d-Baogaliya-欧洲-233ms"
+  - name: "别人-优选34-3.44MB/s-欧洲-Baogaliya-suofiya-233ms"
     type: vless
     server: 94.72.143.231
     port: 443
@@ -509,7 +509,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选35-3.41MB/s-2a12:5940:8025::2-Yingguo-欧洲-269ms"
+  - name: "别人-优选35-3.41MB/s-欧洲-Yingguo-falanfuke-269ms"
     type: vless
     server: 91.108.241.188
     port: 443
@@ -524,7 +524,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选36-3.35MB/s-2a0c:db40:0:834b::2-Helan-欧洲-255ms"
+  - name: "别人-优选36-3.35MB/s-欧洲-Helan-amutesidan-255ms"
     type: vless
     server: 157.22.179.184
     port: 443
@@ -539,7 +539,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选37-3.34MB/s-2a12:bec4:1ac0:bf1::-Helan-欧洲-211ms"
+  - name: "别人-优选37-3.34MB/s-欧洲-Helan-amutesidan-211ms"
     type: vless
     server: 153.76.116.102
     port: 443
@@ -554,7 +554,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选38-3.27MB/s-129.146.242.248-Meiguo-北美-172ms"
+  - name: "别人-优选38-3.27MB/s-北美-Meiguo-luoshanji-172ms"
     type: vless
     server: 129.146.242.248
     port: 443
@@ -569,7 +569,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选39-3.20MB/s-129.153.214.154-Meiguo-北美-180ms"
+  - name: "别人-优选39-3.20MB/s-北美-Meiguo-luoshanji-180ms"
     type: vless
     server: 129.153.214.154
     port: 8443
@@ -584,7 +584,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选40-3.20MB/s-2001:19f0:6c00:1a55:5400:5ff:fe04:ff7b-Deguo-欧洲-211ms"
+  - name: "别人-优选40-3.20MB/s-欧洲-Deguo-falanfuke-211ms"
     type: vless
     server: 95.179.168.228
     port: 8443
@@ -599,7 +599,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选41-3.11MB/s-2.26.83.202-Helan-欧洲-213ms"
+  - name: "别人-优选41-3.11MB/s-欧洲-Helan-amutesidan-213ms"
     type: vless
     server: 2.26.83.202
     port: 443
@@ -614,7 +614,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选42-3.09MB/s-146.70.20.100-Deguo-欧洲-226ms"
+  - name: "别人-优选42-3.09MB/s-欧洲-Deguo-falanfuke-226ms"
     type: vless
     server: 146.70.20.100
     port: 443
@@ -629,7 +629,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选43-3.04MB/s-45.150.32.112-Deguo-欧洲-266ms"
+  - name: "别人-优选43-3.04MB/s-欧洲-Deguo-falanfuke-266ms"
     type: vless
     server: 45.150.32.112
     port: 443
@@ -644,7 +644,7 @@ proxies:
       headers:
         Host: hhgy.hh0mg.kdns.fr
     udp: true
-  - name: "别人-优选44-3.01MB/s-2a0f:f01:205:f8::-Danmai-欧洲-214ms"
+  - name: "别人-优选44-3.01MB/s-欧洲-Danmai-gebenhagen-214ms"
     type: vless
     server: 77.37.96.247
     port: 443
