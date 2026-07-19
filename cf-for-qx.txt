@@ -1,3 +1,5 @@
+https://bestcf.pages.dev/domain/mini.txt
+
 vless=103.232.213.201:17447, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人的-优选1-dongjing-5.63MB/s
 
 vless=205.186.67.191:8443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=别人的-优选2-jilongpo-9.04MB/s
