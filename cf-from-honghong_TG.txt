@@ -1,2 +1,0 @@
-vless=nexusmods.com:443,method=none,password=652ff060-1aee-4cc4-8167-30bb5c75d255,obfs=wss,obfs-uri=/,obfs-host=hhgy.hh0mg.kdns.fr,tls-verification=false,tls-host=hhgy.hh0mg.kdns.fr,fast-open=false,udp-relay=true,tag=♥哄哄公益请勿滥用♥
-vless=da.mfa.gov.ua:443,method=none,password=652ff060-1aee-4cc4-8167-30bb5c75d255,obfs=wss,obfs-uri=/,obfs-host=hhgy.hh0mg.kdns.fr,tls-verification=false,tls-host=hhgy.hh0mg.kdns.fr,fast-open=false,udp-relay=true,tag=♥哄哄TG群组@honghongtg♥
