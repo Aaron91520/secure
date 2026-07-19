@@ -20,17 +20,11 @@ vless=172.64.52.142:443, method=none, password=68eee13f-1a7a-4761-b71e-83b997eec
 
 
 #由哄哄交流群 通用节点 改ip端口
-#vless=cloudflare.seeck.cn:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=♥Seeck三网通用线路♥
-
 vless=47.76.218.163:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=mycf2-别人的cf-天诚优选1|港岛茶记 | xianggang- | 47.76.218.163:443
 vless=23.27.48.216:56197, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=mycf2-别人的cf-♥哄哄公益请勿滥用♥'
 
 vless=23.28.47.16:443, method=none, password=652ff060-1aee-4cc4-8167-30bb5c75d255, obfs=wss, obfs-host=hhgy.hh0mg.kdns.fr, obfs-uri=/, tls-verification=false, tls-host=hhgy.hh0mg.kdns.fr, fast-open=false, udp-relay=true, tag=mycf2-别人的cf-自动替换优选ip02
 
 
-#我的cf账号改
-#vless=172.64.159.31:443, method=none, password=de02ea98-6f25-42f3-8d4a-9b2617f90a97, obfs=wss, obfs-host=dameng0617.ccwu.cc, obfs-uri=/proxyip=ProxyIP.CMLiussss.net?ed=2560, tls-verification=true, tls-host=dameng0617.ccwu.cc, fast-open=false, udp-relay=false, tag=mycf2-任务自动替换优选ip
-
-#vless=162.159.16.77:443, method=none, password=de02ea98-6f25-42f3-8d4a-9b2617f90a97, obfs=wss, obfs-host=dameng0617.ccwu.cc, obfs-uri=/proxyip=ProxyIP.CMLiussss.net?ed=2560, tls-verification=true, tls-host=dameng0617.ccwu.cc, fast-open=false, udp-relay=false, tag=mycf2-任务自动替换优选ip 2
-
+#第三方优选链接
 https://bestcf.pages.dev/domain/mini.txt
