@@ -1,2 +1,1 @@
-vless=nexusmods.com:443,method=none,password=652ff060-1aee-4cc4-8167-30bb5c75d255,obfs=wss,obfs-uri=/,obfs-host=hhgy.hh0mg.kdns.fr,tls-verification=false,tls-host=hhgy.hh0mg.kdns.fr,fast-open=false,udp-relay=true,tag=♥请勿滥用♥
-vless=da.mfa.gov.ua:443,method=none,password=652ff060-1aee-4cc4-8167-30bb5c75d255,obfs=wss,obfs-uri=/,obfs-host=hhgy.hh0mg.kdns.fr,tls-verification=false,tls-host=hhgy.hh0mg.kdns.fr,fast-open=false,udp-relay=true,tag=♥哄哄
+vless=185.65.151.81:443,method=none,password=5fef4e8b-7553-1b8f-908a-ac19661e380a,obfs=wss,obfs-uri=/pg/78978900-d858d435de7e2910,obfs-host=9.h.y.i.t.q.a.a.q.3.v.9.h.2.c.q.edukg.dpdns.org,tls-verification=false,tls-host=9.h.y.i.t.q.a.a.q.3.v.9.h.2.c.q.edukg.dpdns.org,fast-open=false,udp-relay=true,tag=VIP专享-US
