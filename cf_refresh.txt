@@ -6,7 +6,6 @@ vless=188.253.6.173:443, method=none, password=68eee13f-1a7a-4761-b71e-83b997eec
 vless=188.253.6.209:443, method=none, password=68eee13f-1a7a-4761-b71e-83b997eeccf9, obfs=wss, obfs-host=l7dix.hyfa.c94.hh.hhyf.kdns.fr, obfs-uri=/glasspanel/eef96af1_0_5b16fa05cb64/, tls-verification=false, tls-host=l7dix.hyfa.c94.hh.hhyf.kdns.fr, fast-open=false, udp-relay=false, tag=别人-🇹🇼中国台湾 | 188.253.6.209:443
 
 
-
 #由哄哄交流群 专享 改ip端口
 
 vless=193.177.221.29:443, method=none, password=68eee13f-1a7a-4761-b71e-83b997eeccf9, obfs=wss, obfs-host=l7dix.hyfa.c94.hh.hhyf.kdns.fr, obfs-uri=/glasspanel/eef96af1_0_5b16fa05cb64/, tls-verification=false, tls-host=l7dix.hyfa.c94.hh.hhyf.kdns.fr, fast-open=false, udp-relay=true, tag=mycf2-专享cf 美国
@@ -18,7 +17,6 @@ vless=103.135.34.197:443, method=none, password=68eee13f-1a7a-4761-b71e-83b997ee
 vless=47.76.218.163:443, method=none, password=68eee13f-1a7a-4761-b71e-83b997eeccf9, obfs=wss, obfs-host=l7dix.hyfa.c94.hh.hhyf.kdns.fr, obfs-uri=/glasspanel/eef96af1_0_5b16fa05cb64/, tls-verification=false, fast-open=false, udp-relay=false, tag=mycf2-专享cf-天诚优选1 | 港岛茶记 | xianggang- | 47.76.218.163:443
 
 vless=172.64.52.142:443, method=none, password=68eee13f-1a7a-4761-b71e-83b997eeccf9, obfs=wss, obfs-host=l7dix.hyfa.c94.hh.hhyf.kdns.fr, obfs-uri=/glasspanel/eef96af1_0_5b16fa05cb64/, tls-verification=false, fast-open=false, udp-relay=false, tag=mycf2-专享cf-自动替换优选ip
-
 
 
 #由哄哄交流群 通用 改ip端口
