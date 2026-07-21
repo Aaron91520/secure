@@ -20,7 +20,7 @@ vless=172.64.52.142:443, method=none, password=68eee13f-1a7a-4761-b71e-83b997eec
 
 
 #我的GitHub上存放的优选IP链接
-https://raw.githubusercontent.com/Aaron91520/secure/refs/heads/qx/CM_cf-for-qx.txt
+https://raw.githubusercontent.com/Aaron91520/secure/refs/heads/qx/ipv4&6_cf-for-qx.txt
 https://raw.githubusercontent.com/Aaron91520/secure/refs/heads/qx/CM_cf-for-qx.txt
 
 #第三方优选链接
