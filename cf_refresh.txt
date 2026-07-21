@@ -23,7 +23,7 @@ vless=172.64.52.142:443, method=none, password=68eee13f-1a7a-4761-b71e-83b997eec
 
 
 #第三方优选链接
-#https://bestcf.pages.dev/domain/mini.txt
+https://bestcf.pages.dev/domain/mini.txt
 
 
 # 🌏 亚太地区 (Asia Pacific)
