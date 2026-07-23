@@ -15,14 +15,14 @@ vless=193.177.221.29:443, method=none, password=68eee13f-1a7a-4761-b71e-83b997ee
 
 vless=172.64.36.189:2053, method=none, password=68eee13f-1a7a-4761-b71e-83b997eeccf9, obfs=wss, obfs-host=l7dix.hyfa.c94.hh.hhyf.kdns.fr, obfs-uri=/glasspanel/eef96af1_0_5b16fa05cb64/, tls-verification=false, fast-open=false, udp-relay=false, tag=mycf2-专享cf-meiguo- | 172.64.36.189:2053
 
-vless=103.135.34.197:443, method=none, password=68eee13f-1a7a-4761-b71e-83b997eeccf9, obfs=wss, obfs-host=l7dix.hyfa.c94.hh.hhyf.kdns.fr, obfs-uri=/glasspanel/eef96af1_0_5b16fa05cb64/, tls-verification=false, fast-open=false, udp-relay=false, tag=mycf2-专用享cf-香港 AS40065 CNSERVERS LLC
+vless=103.135.34.197:443, method=none, password=68eee13f-1a7a-4761-b71e-83b997eeccf9, obfs=wss, obfs-host=l7dix.hyfa.c94.hh.hhyf.kdns.fr, obfs-uri=/glasspanel/eef96af1_0_5b16fa05cb64/, tls-verification=false, fast-open=false, udp-relay=false, tag=mycf2-专享cf-香港 AS40065 CNSERVERS LLC
 
 vless=47.76.218.163:443, method=none, password=68eee13f-1a7a-4761-b71e-83b997eeccf9, obfs=wss, obfs-host=l7dix.hyfa.c94.hh.hhyf.kdns.fr, obfs-uri=/glasspanel/eef96af1_0_5b16fa05cb64/, tls-verification=false, fast-open=false, udp-relay=false, tag=mycf2-专享cf-天诚优选1 | 港岛茶记 | xianggang- | 47.76.218.163:443
 
 vless=172.64.52.142:443, method=none, password=68eee13f-1a7a-4761-b71e-83b997eeccf9, obfs=wss, obfs-host=l7dix.hyfa.c94.hh.hhyf.kdns.fr, obfs-uri=/glasspanel/eef96af1_0_5b16fa05cb64/, tls-verification=false, fast-open=false, udp-relay=false, tag=mycf2-专享cf-自动替换优选ip
 
 
-#我的GitHub上存放的优选IP链接
+#我的GitHub上存放的优选IP链接，用danfeng给的数据中心各AS的优选IP列表 在CFData-Web工具跑出来的结果
 https://raw.githubusercontent.com/Aaron91520/secure/refs/heads/qx/ipv4&6_cf-for-qx.txt
 https://raw.githubusercontent.com/Aaron91520/secure/refs/heads/qx/CM_cf-for-qx.txt
 
