@@ -1,7 +1,7 @@
 # 8.210.29.68:443#mycf2-别人常用cf 香港
 
-vless=34.150.68.221:8443, method=none, password=de02ea98-6f25-42f3-8d4a-9b2617f90a97, obfs=wss, obfs-host=dameng0617.ccwu.cc, obfs-uri=/proxyip=ProxyIP.CMLiussss.net?ed=2560, tls-verification=true, tls-host=dameng0617.ccwu.cc, fast-open=false, udp-relay=true, tag=mycf2-香港-⚡TG@danfeng_chat [DanFeng]
-vless=82.152.164.154:443, method=none, password=de02ea98-6f25-42f3-8d4a-9b2617f90a97, obfs=wss, obfs-host=dameng0617.ccwu.cc, obfs-uri=/proxyip=ProxyIP.CMLiussss.net?ed=2560, tls-verification=true, tls-host=dameng0617.ccwu.cc, fast-open=false, udp-relay=true, tag=mycf2-香港-⚡TG@danfeng_chat [DanFeng] 2
+vless=34.150.68.221:8443, method=none, password=de02ea97-6f25-42f3-8d4a-9b2617f90a97, obfs=wss, obfs-host=damen.ccwu.cc, obfs-uri=/proxyip=ProxyIP.CMLiussss.net?ed=2560, tls-verification=true, tls-host=damen.ccwu.cc, fast-open=false, udp-relay=true, tag=mycf2-香港-⚡TG@danfeng_chat [DanFeng]
+vless=82.152.164.154:443, method=none, password=de02ea97-6f25-42f3-8d4a-9b2617f90a97, obfs=wss, obfs-host=damen.ccwu.cc, obfs-uri=/proxyip=ProxyIP.CMLiussss.net?ed=2560, tls-verification=true, tls-host=damen.ccwu.cc, fast-open=false, udp-relay=true, tag=mycf2-香港-⚡TG@danfeng_chat [DanFeng] 2
 vless=191.222.209.104:443, method=none, password=26524cce-d514-4014-a426-365fb266a14d, obfs=wss, obfs-host=gyq.data-api-sg.gfw.qzz.io, obfs-uri=/danfeng-dp2tu3-kc0vkx-jkkr-25y6ikqj?ed=2560, tls-verification=false, fast-open=false, udp-relay=false, tag=TW⚡TG@danfeng_chat
 
 cmin2.pjq.cc.cd:443#广东移动优选域名
