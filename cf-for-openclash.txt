@@ -615,3 +615,17 @@ proxies:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
         Host: qxblheyi.eduhk.dpdns.org
+  - name: "别人-mycf2-xianggang-⚡TG@danfeng_chat [DanFeng]_34.150.68.221:8443"
+    type: vless
+    server: 34.150.68.221
+    port: 8443
+    uuid: 931a2c0b-688f-23b4-4a7d-96c69c9dd67b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: xqfogzce.edutw.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: xqfogzce.edutw.cc.cd
