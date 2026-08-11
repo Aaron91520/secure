@@ -1,4 +1,200 @@
 proxies:
+  - name: "别人-三网优选-📡 电信推荐_172.64.229.49:443"
+    type: vless
+    server: 172.64.229.49
+    port: 443
+    uuid: 931a2c0b-688f-23b4-4a7d-96c69c9dd67b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: xqfogzce.edutw.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: xqfogzce.edutw.cc.cd
+  - name: "别人-三网优选-📱 移动推荐_172.66.1.109:443"
+    type: vless
+    server: 172.66.1.109
+    port: 443
+    uuid: 931a2c0b-688f-23b4-4a7d-96c69c9dd67b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: xqfogzce.edutw.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: xqfogzce.edutw.cc.cd
+  - name: "别人-三网优选-📶 联通推荐_104.29.125.215:443"
+    type: vless
+    server: 104.29.125.215
+    port: 443
+    uuid: 931a2c0b-688f-23b4-4a7d-96c69c9dd67b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: xqfogzce.edutw.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: xqfogzce.edutw.cc.cd
+  - name: "别人-三网优选-🌐 多线推荐_172.64.229.47:443"
+    type: vless
+    server: 172.64.229.47
+    port: 443
+    uuid: 931a2c0b-688f-23b4-4a7d-96c69c9dd67b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: xqfogzce.edutw.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: xqfogzce.edutw.cc.cd
+  - name: "别人-⚡️44ms 🚀568.0M | 电信优选 Top1_104.18.32.46:443"
+    type: vless
+    server: 104.18.32.46
+    port: 443
+    uuid: 931a2c0b-688f-23b4-4a7d-96c69c9dd67b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: xqfogzce.edutw.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: xqfogzce.edutw.cc.cd
+  - name: "别人-⚡️44ms 🚀559.0M | 电信优选 Top2_104.18.33.184:443"
+    type: vless
+    server: 104.18.33.184
+    port: 443
+    uuid: 931a2c0b-688f-23b4-4a7d-96c69c9dd67b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: xqfogzce.edutw.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: xqfogzce.edutw.cc.cd
+  - name: "别人-⚡️44ms 🚀556.0M | 电信优选 Top3_172.64.150.181:443"
+    type: vless
+    server: 172.64.150.181
+    port: 443
+    uuid: 931a2c0b-688f-23b4-4a7d-96c69c9dd67b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: xqfogzce.edutw.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: xqfogzce.edutw.cc.cd
+  - name: "别人-⚡️44ms 🚀555.1M | 电信优选 Top4_104.18.42.90:443"
+    type: vless
+    server: 104.18.42.90
+    port: 443
+    uuid: 931a2c0b-688f-23b4-4a7d-96c69c9dd67b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: xqfogzce.edutw.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: xqfogzce.edutw.cc.cd
+  - name: "别人-⚡️44ms 🚀547.9M | 电信优选 Top5_172.64.144.161:443"
+    type: vless
+    server: 172.64.144.161
+    port: 443
+    uuid: 931a2c0b-688f-23b4-4a7d-96c69c9dd67b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: xqfogzce.edutw.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: xqfogzce.edutw.cc.cd
+  - name: "别人-⚡️44ms 🚀547.7M | 电信优选 Top6_172.64.148.236:443"
+    type: vless
+    server: 172.64.148.236
+    port: 443
+    uuid: 931a2c0b-688f-23b4-4a7d-96c69c9dd67b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: xqfogzce.edutw.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: xqfogzce.edutw.cc.cd
+  - name: "别人-⚡️45ms 🚀546.7M | 电信优选 Top7_104.18.47.110:443"
+    type: vless
+    server: 104.18.47.110
+    port: 443
+    uuid: 931a2c0b-688f-23b4-4a7d-96c69c9dd67b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: xqfogzce.edutw.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: xqfogzce.edutw.cc.cd
+  - name: "别人-⚡️43ms 🚀530.4M | 电信优选 Top8_172.64.154.27:443"
+    type: vless
+    server: 172.64.154.27
+    port: 443
+    uuid: 931a2c0b-688f-23b4-4a7d-96c69c9dd67b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: xqfogzce.edutw.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: xqfogzce.edutw.cc.cd
+  - name: "别人-⚡️44ms 🚀529.6M | 电信优选 Top9_104.18.36.74:443"
+    type: vless
+    server: 104.18.36.74
+    port: 443
+    uuid: 931a2c0b-688f-23b4-4a7d-96c69c9dd67b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: xqfogzce.edutw.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: xqfogzce.edutw.cc.cd
+  - name: "别人-⚡️44ms 🚀527.8M | 电信优选 Top10_172.64.151.44:443"
+    type: vless
+    server: 172.64.151.44
+    port: 443
+    uuid: 931a2c0b-688f-23b4-4a7d-96c69c9dd67b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: xqfogzce.edutw.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: xqfogzce.edutw.cc.cd
   - name: "别人-优选1-4.48MB/s-亚太-Hanguo-shouer-80ms_168.110.101.249:443"
     type: vless
     server: 168.110.101.249
