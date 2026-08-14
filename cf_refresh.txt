@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/Aaron91520/secure/refs/heads/qx/CM_cf-for-qx.t
 # 第三方优选链接
 
 # mia优选
-https://bestcf.pages.dev/xinyitang3/ipv4.txt
+#https://bestcf.pages.dev/xinyitang3/ipv4.txt
 
 https://bestcf.pages.dev/domain/mini.txt
 
