@@ -1,1 +1,0 @@
-vless=185.65.151.81:443,method=none,password=5fef4e8b-7553-1b8f-908a-ac19661e380a,obfs=wss,obfs-uri=/pg/78978900-d858d435de7e2910,obfs-host=9.h.y.i.t.q.a.a.q.3.v.9.h.2.c.q.edukg.dpdns.org,tls-verification=false,tls-host=9.h.y.i.t.q.a.a.q.3.v.9.h.2.c.q.edukg.dpdns.org,fast-open=false,udp-relay=true,tag=VIP专享-US
