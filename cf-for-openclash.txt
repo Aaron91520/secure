@@ -965,3 +965,480 @@ proxies:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
         Host: xqfogzce.edutw.cc.cd
+
+  - name: "别人-走香港_38.207.174.111:443"
+    type: vless
+    server: 38.207.174.111
+    port: 443
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-走台北_85.149.218.63:35758"
+    type: vless
+    server: 85.149.218.63
+    port: 35758
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-HKG 亚太香港 153ms 17.35MB/s_38.147.171.110:443"
+    type: vless
+    server: 38.147.171.110
+    port: 443
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-HKG 亚太香港 158ms 17.28MB/s_149.104.25.189:1443"
+    type: vless
+    server: 149.104.25.189
+    port: 1443
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-HKG 亚太香港 162ms 16.84MB/s_45.144.136.62:443"
+    type: vless
+    server: 45.144.136.62
+    port: 443
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-HKG 亚太香港 165ms 16.10MB/s_207.57.123.210:443"
+    type: vless
+    server: 207.57.123.210
+    port: 443
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-HKG 亚太香港 156ms 15.32MB/s_68.64.180.198:4432"
+    type: vless
+    server: 68.64.180.198
+    port: 4432
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-HKG 亚太香港 155ms 14.89MB/s_149.104.27.213:443"
+    type: vless
+    server: 149.104.27.213
+    port: 443
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-HKG 亚太香港 160ms 13.02MB/s_68.64.178.52:443"
+    type: vless
+    server: 68.64.178.52
+    port: 443
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-HKG 亚太香港 156ms 12.38MB/s_193.134.211.27:443"
+    type: vless
+    server: 193.134.211.27
+    port: 443
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-HKG 亚太香港 159ms 12.37MB/s_149.104.25.189:2083"
+    type: vless
+    server: 149.104.25.189
+    port: 2083
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-HKG 亚太香港 152ms 12.13MB/s_207.57.122.65:443"
+    type: vless
+    server: 207.57.122.65
+    port: 443
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-HKG 亚太香港 154ms 11.52MB/s_38.55.198.250:443"
+    type: vless
+    server: 38.55.198.250
+    port: 443
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-HKG 亚太香港 161ms 11.13MB/s_207.57.124.35:443"
+    type: vless
+    server: 207.57.124.35
+    port: 443
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-HKG 亚太香港 155ms 10.79MB/s_207.57.132.135:0793"
+    type: vless
+    server: 207.57.132.135
+    port: 793
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-HKG 亚太香港 157ms 10.58MB/s_186.244.250.67:443"
+    type: vless
+    server: 186.244.250.67
+    port: 443
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-HKG 亚太香港 153ms 10.28MB/s_38.207.178.173:2087"
+    type: vless
+    server: 38.207.178.173
+    port: 2087
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-HKG 亚太香港 158ms 10.28MB/s_68.64.183.37:443"
+    type: vless
+    server: 68.64.183.37
+    port: 443
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-HKG 亚太香港 161ms 10.17MB/s_193.134.211.209:443"
+    type: vless
+    server: 193.134.211.209
+    port: 443
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-HKG 亚太香港 153ms 10.11MB/s_207.57.121.201:5002"
+    type: vless
+    server: 207.57.121.201
+    port: 5002
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-HKG 亚太香港 159ms 9.50MB/s_149.104.24.57:8443"
+    type: vless
+    server: 149.104.24.57
+    port: 8443
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-SJC 北美洲美国圣何塞 11ms 50.55MB/s_38.59.243.217:23554"
+    type: vless
+    server: 38.59.243.217
+    port: 23554
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-SJC 北美洲美国圣何塞 12ms 49.02MB/s_38.59.246.45:443"
+    type: vless
+    server: 38.59.246.45
+    port: 443
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-SJC 北美洲美国圣何塞 11ms 46.13MB/s_38.59.240.199:15124"
+    type: vless
+    server: 38.59.240.199
+    port: 15124
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-SJC 北美洲美国圣何塞 11ms 43.75MB/s_37.123.193.243:8174"
+    type: vless
+    server: 37.123.193.243
+    port: 8174
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-SJC 北美洲美国圣何塞 11ms 42.80MB/s_37.123.192.227:502"
+    type: vless
+    server: 37.123.192.227
+    port: 502
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-SJC 北美洲美国圣何塞 11ms 42.64MB/s_103.136.185.148:29262"
+    type: vless
+    server: 103.136.185.148
+    port: 29262
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-SJC 北美洲美国圣何塞 12ms 40.83MB/s_38.59.243.217:13614"
+    type: vless
+    server: 38.59.243.217
+    port: 13614
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-SJC 北美洲美国圣何塞 12ms 40.20MB/s_185.148.13.126:20555"
+    type: vless
+    server: 185.148.13.126
+    port: 20555
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-PDX 北美洲美国波特兰 1ms 76.45MB/s_185.198.26.178:443"
+    type: vless
+    server: 185.198.26.178
+    port: 443
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-LAX 北美洲美国洛杉矶 1ms 70.80MB/s_31.220.30.234:52928"
+    type: vless
+    server: 31.220.30.234
+    port: 52928
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-LAX 北美洲美国洛杉矶 9ms 60.57MB/s_185.197.30.6:443"
+    type: vless
+    server: 185.197.30.6
+    port: 443
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-LAX 北美洲美国洛杉矶 6ms 57.80MB/s_45.45.217.48:443"
+    type: vless
+    server: 45.45.217.48
+    port: 443
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+  - name: "别人-LAX 北美洲美国洛杉矶 1ms 51.88MB/s_45.67.218.141:47441"
+    type: vless
+    server: 45.67.218.141
+    port: 47441
+    uuid: 6e8f5055-1020-4a3e-8223-556818d18fde
+    cipher: auto
+    tls: true
+    skip-cert-verify: false
+    servername: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
+    network: ws
+    ws-opts:
+      path: "/h-jpjy-1"
+      headers:
+        Host: 1.c.w.3.w.p.h.m.z.x.q.p.a.u.o.2.artus.kdns.fr
