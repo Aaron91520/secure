@@ -1512,3 +1512,269 @@ proxies:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
         Host: nlceclhi.artcn.cc.cd
+  - name: "别人-CMIN2_167.148.203.3:443"
+    type: vless
+    server: 167.148.203.3
+    port: 443
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-CMIN2_103.97.201.65:443"
+    type: vless
+    server: 103.97.201.65
+    port: 443
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-CMIN2_151.243.229.191:443"
+    type: vless
+    server: 151.243.229.191
+    port: 443
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-CMIN2_143.14.189.170:443"
+    type: vless
+    server: 143.14.189.170
+    port: 443
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-CMIN2_167.148.203.107:443"
+    type: vless
+    server: 167.148.203.107
+    port: 443
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-Xtom_三網優化_45.89.234.184:443"
+    type: vless
+    server: 45.89.234.184
+    port: 443
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-Xtom_三網優化_45.94.40.71:2053"
+    type: vless
+    server: 45.94.40.71
+    port: 2053
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-Xtom_三網優化_45.153.247.62:8443"
+    type: vless
+    server: 45.153.247.62
+    port: 8443
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-Xtom_三網優化_45.89.235.121:8443"
+    type: vless
+    server: 45.89.235.121
+    port: 8443
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-JP_177.2.21.2:55471"
+    type: vless
+    server: 177.2.21.2
+    port: 55471
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-JP_177.2.21.4:55471"
+    type: vless
+    server: 177.2.21.4
+    port: 55471
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-JP_177.2.21.5:55471"
+    type: vless
+    server: 177.2.21.5
+    port: 55471
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-JP_177.2.21.6:55471"
+    type: vless
+    server: 177.2.21.6
+    port: 55471
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-JP_177.2.21.7:55471"
+    type: vless
+    server: 177.2.21.7
+    port: 55471
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-HK_177.2.21.2:59853"
+    type: vless
+    server: 177.2.21.2
+    port: 59853
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-HK_177.2.21.4:59853"
+    type: vless
+    server: 177.2.21.4
+    port: 59853
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-HK_177.2.21.5:59853"
+    type: vless
+    server: 177.2.21.5
+    port: 59853
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-HK_177.2.21.6:59853"
+    type: vless
+    server: 177.2.21.6
+    port: 59853
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-HK_177.2.21.7:59853"
+    type: vless
+    server: 177.2.21.7
+    port: 59853
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
