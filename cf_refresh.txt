@@ -1,13 +1,36 @@
 # 8.210.29.68:443#mycf2-别人常用cf 香港
 
-vless=34.150.68.221:8443, method=none, password=de02ea97-6f25-42f3-8d4a-9b2617f90a97, obfs=wss, obfs-host=damen.ccwu.cc, obfs-uri=/proxyip=ProxyIP.CMLiussss.net?ed=2560, tls-verification=true, tls-host=damen.ccwu.cc, fast-open=false, udp-relay=true, tag=mycf2-xianggang-⚡TG@danfeng_chat [DanFeng]
+
 vless=82.152.164.154:443, method=none, password=de02ea97-6f25-42f3-8d4a-9b2617f90a97, obfs=wss, obfs-host=damen.ccwu.cc, obfs-uri=/proxyip=ProxyIP.CMLiussss.net?ed=2560, tls-verification=true, tls-host=damen.ccwu.cc, fast-open=false, udp-relay=true, tag=mycf2-xianggang-⚡TG@danfeng_chat [DanFeng] 2
 
 
 cmin2.pjq.cc.cd:443#广东移动优选域名
 # sub://sub.pjq.cc.cd#广东移动优选订阅器 CMIN2
 
-vless=34.81.179.112:8443, method=none, password=26524cce-d514-4014-a426-365fb266a14d, obfs=wss, obfs-host=jypu0l.console-api.hhez.kdns.fr, obfs-uri=/danfeng-1g09eg-p1zywv-sy0t-24ijjh3d?ed=2560, tls-verification=false, fast-open=false, udp-relay=false, tag=TW⚡TG@danfeng_chat
+#移動福利, 全國幾乎所有移動都走cmin2 . 跑滿帶寬 
+167.148.203.3:443#CMIN2
+103.97.201.65:443#CMIN2
+151.243.229.191:443#CMIN2
+143.14.189.170:443#CMIN2
+167.148.203.107:443#CMIN2
+
+45.89.234.184:443#Xtom_三網優化
+45.94.40.71:2053#Xtom_三網優化
+45.153.247.62:8443#Xtom_三網優化
+45.89.235.121:8443#Xtom_三網優化
+
+#三網優化
+177.2.21.2:55471#JP
+177.2.21.4:55471#JP
+177.2.21.5:55471#JP
+177.2.21.6:55471#JP
+177.2.21.7:55471#JP
+177.2.21.2:59853#HK
+177.2.21.4:59853#HK
+177.2.21.5:59853#HK
+177.2.21.6:59853#HK
+177.2.21.7:59853#HK
+
 
 
 #由哄哄交流群 专享 改ip端口
