@@ -1,4 +1,14 @@
 # 8.210.29.68:443#mycf2-别人常用cf 香港
+43.169.19.179:443#别人-优选1-亚太-香港
+43.174.192.1:443#别人-优选2-亚太-香港
+151.245.90.155:443#别人-优选3-亚太-香港
+82.152.165.153:443#别人-优选4-亚太-香港
+87.83.110.203:443#别人-优选5-亚太-香港
+82.152.164.229:443#别人-优选6-亚太-香港
+82.152.165.151:443#别人-优选7-亚太-香港
+209.33.167.234:443#别人-优选8-亚太-香港
+45.207.156.69:8443#别人-优选9-亚太-香港
+82.152.163.180:443#别人-优选10-亚太-香港
 
 
 vless=82.152.164.154:443, method=none, password=de02ea97-6f25-42f3-8d4a-9b2617f90a97, obfs=wss, obfs-host=damen.ccwu.cc, obfs-uri=/proxyip=ProxyIP.CMLiussss.net?ed=2560, tls-verification=true, tls-host=damen.ccwu.cc, fast-open=false, udp-relay=true, tag=mycf2-xianggang-⚡TG@danfeng_chat [DanFeng] 2
@@ -148,18 +158,6 @@ https://bestcf.pages.dev/s5gy/tw.txt
 45.89.235.144:443#JP CloudflareIP
 45.153.247.119:443#JP CloudflareIP
 
-191.222.223.84:443#NRT-Tokyo-JP,
-191.222.223.93:443#NRT-Tokyo-JP,
-191.223.221.102:443#NRT-Tokyo-JP,
-191.223.221.101:443#NRT-Tokyo-JP,
-191.222.223.20:443#NRT-Tokyo-JP,
-
-154.17.10.133:443#TRUE,LAX,US,California,,,AS906
-154.17.10.205:443#TRUE,LAX,US,California,,,AS906
-154.17.0.118:443#TRUE,LAX,US,California,,,AS906
-154.17.1.168:443#TRUE,LAX,US,California,,,AS906
-154.17.1.195:443#TRUE,LAX,US,California,,,AS906
-154.17.16.199:443#TRUE,LAX,US,California,,,AS906
 64.186.228.41:443#US
 64.186.246.65:443#US
 45.59.186.73:29453#US
