@@ -1,201 +1,4 @@
 proxies:
-  - name: "别人-三网优选-📡 电信推荐_172.64.229.133:443"
-    type: vless
-    server: 172.64.229.133
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-三网优选-📱 移动推荐_104.17.158.109:443"
-    type: vless
-    server: 104.17.158.109
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-三网优选-📶 联通推荐_162.159.145.17:443"
-    type: vless
-    server: 162.159.145.17
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-三网优选-🌐 多线推荐_172.64.229.223:443"
-    type: vless
-    server: 172.64.229.223
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-📡 电信优选 Top 1_172.64.229.133:443"
-    type: vless
-    server: 172.64.229.133
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-📡 电信优选 Top 2_172.64.158.150:443"
-    type: vless
-    server: 172.64.158.150
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-📡 电信优选 Top 3_172.64.159.215:443"
-    type: vless
-    server: 172.64.159.215
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-📡 电信优选 Top 4_172.64.144.112:443"
-    type: vless
-    server: 172.64.144.112
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-📡 电信优选 Top 5_172.64.79.129:443"
-    type: vless
-    server: 172.64.79.129
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-📡 电信优选 Top 6_162.159.237.132:443"
-    type: vless
-    server: 162.159.237.132
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-📡 电信优选 Top 7_104.17.3.87:443"
-    type: vless
-    server: 104.17.3.87
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-📡 电信优选 Top 8_104.16.95.47:443"
-    type: vless
-    server: 104.16.95.47
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-📡 电信优选 Top 9_104.18.189.24:443"
-    type: vless
-    server: 104.18.189.24
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-📡 电信优选 Top 10_104.18.11.131:443"
-    type: vless
-    server: 104.18.11.131
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-
   - name: "别人-优选1-76.45MB/s-北美-Meiguo-botelan-1ms_185.198.26.178:443"
     type: vless
     server: 185.198.26.178
@@ -1978,6 +1781,202 @@ proxies:
 
 
 # cmin2
+  - name: "别人-三网优选-📡 电信推荐_172.64.229.51:443"
+    type: vless
+    server: 172.64.229.51
+    port: 443
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-三网优选-📱 移动推荐_104.19.152.48:443"
+    type: vless
+    server: 104.19.152.48
+    port: 443
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-三网优选-📶 联通推荐_104.18.61.4:443"
+    type: vless
+    server: 104.18.61.4
+    port: 443
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-三网优选-🌐 多线推荐_172.64.229.165:443"
+    type: vless
+    server: 172.64.229.165
+    port: 443
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-📡 电信优选 Top 1_172.64.229.51:443"
+    type: vless
+    server: 172.64.229.51
+    port: 443
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-📡 电信优选 Top 2_172.64.147.229:443"
+    type: vless
+    server: 172.64.147.229
+    port: 443
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-📡 电信优选 Top 3_104.18.221.206:443"
+    type: vless
+    server: 104.18.221.206
+    port: 443
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-📡 电信优选 Top 4_104.17.76.237:443"
+    type: vless
+    server: 104.17.76.237
+    port: 443
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-📡 电信优选 Top 5_104.18.2.14:443"
+    type: vless
+    server: 104.18.2.14
+    port: 443
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-📡 电信优选 Top 6_104.17.178.3:443"
+    type: vless
+    server: 104.17.178.3
+    port: 443
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-📡 电信优选 Top 7_104.19.185.93:443"
+    type: vless
+    server: 104.19.185.93
+    port: 443
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-📡 电信优选 Top 8_104.18.108.224:443"
+    type: vless
+    server: 104.18.108.224
+    port: 443
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-📡 电信优选 Top 9_104.16.38.243:443"
+    type: vless
+    server: 104.16.38.243
+    port: 443
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
+  - name: "别人-📡 电信优选 Top 10_104.16.206.100:443"
+    type: vless
+    server: 104.16.206.100
+    port: 443
+    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: nlceclhi.artcn.cc.cd
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: nlceclhi.artcn.cc.cd
   - name: "别人-以下為移動官方cmin2 [官方CMIN2优选]_dlink.com:443"
     type: vless
     server: dlink.com
