@@ -1,3001 +1,4146 @@
+# OpenClash 节点片段 - 2026/10/20 22:07:41
 proxies:
-  - name: "别人-优选1-76.45MB/s-北美-Meiguo-botelan-1ms_185.198.26.178:443"
+  - name: "别人-三网优选-📡 电信推荐_104.18.33.207:443"
     type: vless
-    server: 185.198.26.178
+    server: 104.18.33.207
     port: 443
-    uuid: 4c1e3503-6e4e-588c-5858-4e858959195d
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
-    skip-cert-verify: false
-    servername: mktiyjvw.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: mktiyjvw.artcn.cc.cd
-  - name: "别人-优选2-70.80MB/s-北美-Meiguo-luoshanji-1ms_31.220.30.234:52928"
-    type: vless
-    server: 31.220.30.234
-    port: 52928
-    uuid: 4c1e3503-6e4e-588c-5858-4e858959195d
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: mktiyjvw.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: mktiyjvw.artcn.cc.cd
-  - name: "别人-优选3-60.57MB/s-北美-Meiguo-luoshanji-9ms_185.197.30.6:443"
-    type: vless
-    server: 185.197.30.6
-    port: 443
-    uuid: 4c1e3503-6e4e-588c-5858-4e858959195d
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: mktiyjvw.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: mktiyjvw.artcn.cc.cd
-  - name: "别人-优选4-57.80MB/s-北美-Meiguo-luoshanji-6ms_45.45.217.48:443"
-    type: vless
-    server: 45.45.217.48
-    port: 443
-    uuid: 4c1e3503-6e4e-588c-5858-4e858959195d
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: mktiyjvw.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: mktiyjvw.artcn.cc.cd
-  - name: "别人-优选5-50.55MB/s-北美-Meiguo-shenghezai-11ms_38.59.243.217:23554"
-    type: vless
-    server: 38.59.243.217
-    port: 23554
-    uuid: 4c1e3503-6e4e-588c-5858-4e858959195d
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: mktiyjvw.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: mktiyjvw.artcn.cc.cd
-  - name: "别人-优选6-49.02MB/s-北美-Meiguo-shenghezai-12ms_38.59.246.45:443"
-    type: vless
-    server: 38.59.246.45
-    port: 443
-    uuid: 4c1e3503-6e4e-588c-5858-4e858959195d
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: mktiyjvw.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: mktiyjvw.artcn.cc.cd
-  - name: "别人-优选7-46.13MB/s-北美-Meiguo-shenghezai-11ms_38.59.240.199:15124"
-    type: vless
-    server: 38.59.240.199
-    port: 15124
-    uuid: 4c1e3503-6e4e-588c-5858-4e858959195d
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: mktiyjvw.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: mktiyjvw.artcn.cc.cd
-  - name: "别人-优选8-43.75MB/s-北美-Meiguo-shenghezai-11ms_37.123.193.243:8174"
-    type: vless
-    server: 37.123.193.243
-    port: 8174
-    uuid: 4c1e3503-6e4e-588c-5858-4e858959195d
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: mktiyjvw.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: mktiyjvw.artcn.cc.cd
-  - name: "别人-优选9-42.80MB/s-北美-Meiguo-shenghezai-11ms_37.123.192.227:502"
-    type: vless
-    server: 37.123.192.227
-    port: 502
-    uuid: 4c1e3503-6e4e-588c-5858-4e858959195d
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: mktiyjvw.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: mktiyjvw.artcn.cc.cd
-  - name: "别人-优选10-42.64MB/s-北美-Meiguo-shenghezai-11ms_103.136.185.148:29262"
-    type: vless
-    server: 103.136.185.148
-    port: 29262
-    uuid: 4c1e3503-6e4e-588c-5858-4e858959195d
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: mktiyjvw.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: mktiyjvw.artcn.cc.cd
-  - name: "别人-优选11-40.83MB/s-北美-Meiguo-shenghezai-12ms_38.59.243.217:13614"
-    type: vless
-    server: 38.59.243.217
-    port: 13614
-    uuid: 4c1e3503-6e4e-588c-5858-4e858959195d
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: mktiyjvw.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: mktiyjvw.artcn.cc.cd
-  - name: "别人-优选12-40.20MB/s-北美-Meiguo-shenghezai-12ms_185.148.13.126:20555"
-    type: vless
-    server: 185.148.13.126
-    port: 20555
-    uuid: 4c1e3503-6e4e-588c-5858-4e858959195d
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: mktiyjvw.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: mktiyjvw.artcn.cc.cd
-  - name: "别人-优选13-17.35MB/s-亚太-Xianggang-153ms_38.147.171.110:443"
-    type: vless
-    server: 38.147.171.110
-    port: 443
-    uuid: 4c1e3503-6e4e-588c-5858-4e858959195d
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: mktiyjvw.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: mktiyjvw.artcn.cc.cd
-  - name: "别人-优选14-17.28MB/s-亚太-Xianggang-158ms_149.104.25.189:1443"
-    type: vless
-    server: 149.104.25.189
-    port: 1443
-    uuid: 4c1e3503-6e4e-588c-5858-4e858959195d
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: mktiyjvw.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: mktiyjvw.artcn.cc.cd
-  - name: "别人-优选15-16.84MB/s-亚太-Xianggang-162ms_45.144.136.62:443"
-    type: vless
-    server: 45.144.136.62
-    port: 443
-    uuid: 4c1e3503-6e4e-588c-5858-4e858959195d
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: mktiyjvw.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: mktiyjvw.artcn.cc.cd
-  - name: "别人-优选16-16.10MB/s-亚太-Xianggang-165ms_207.57.123.210:443"
-    type: vless
-    server: 207.57.123.210
-    port: 443
-    uuid: 4c1e3503-6e4e-588c-5858-4e858959195d
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: mktiyjvw.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: mktiyjvw.artcn.cc.cd
-  - name: "别人-优选17-15.32MB/s-亚太-Xianggang-156ms_68.64.180.198:4432"
-    type: vless
-    server: 68.64.180.198
-    port: 4432
-    uuid: 4c1e3503-6e4e-588c-5858-4e858959195d
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: mktiyjvw.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: mktiyjvw.artcn.cc.cd
-  - name: "别人-优选18-14.89MB/s-亚太-Xianggang-155ms_149.104.27.213:443"
-    type: vless
-    server: 149.104.27.213
-    port: 443
-    uuid: 4c1e3503-6e4e-588c-5858-4e858959195d
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: mktiyjvw.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: mktiyjvw.artcn.cc.cd
-  - name: "别人-优选19-13.02MB/s-亚太-Xianggang-160ms_68.64.178.52:443"
-    type: vless
-    server: 68.64.178.52
-    port: 443
-    uuid: 4c1e3503-6e4e-588c-5858-4e858959195d
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: mktiyjvw.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: mktiyjvw.artcn.cc.cd
-  - name: "别人-优选20-12.38MB/s-亚太-Xianggang-156ms_193.134.211.27:443"
-    type: vless
-    server: 193.134.211.27
-    port: 443
-    uuid: 4c1e3503-6e4e-588c-5858-4e858959195d
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: mktiyjvw.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: mktiyjvw.artcn.cc.cd
-  - name: "别人-优选21-12.37MB/s-亚太-Xianggang-159ms_149.104.25.189:2083"
-    type: vless
-    server: 149.104.25.189
-    port: 2083
-    uuid: 4c1e3503-6e4e-588c-5858-4e858959195d
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: mktiyjvw.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: mktiyjvw.artcn.cc.cd
-  - name: "别人-优选22-12.13MB/s-亚太-Xianggang-152ms_207.57.122.65:443"
-    type: vless
-    server: 207.57.122.65
-    port: 443
-    uuid: 4c1e3503-6e4e-588c-5858-4e858959195d
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: mktiyjvw.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: mktiyjvw.artcn.cc.cd
-  - name: "别人-优选23-11.52MB/s-亚太-Xianggang-154ms_38.55.198.250:443"
-    type: vless
-    server: 38.55.198.250
-    port: 443
-    uuid: 4c1e3503-6e4e-588c-5858-4e858959195d
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: mktiyjvw.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: mktiyjvw.artcn.cc.cd
-  - name: "别人-优选24-11.13MB/s-亚太-Xianggang-161ms_207.57.124.35:443"
-    type: vless
-    server: 207.57.124.35
-    port: 443
-    uuid: 4c1e3503-6e4e-588c-5858-4e858959195d
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: mktiyjvw.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: mktiyjvw.artcn.cc.cd
-  - name: "别人-优选1-4.48MB/s-亚太-Hanguo-shouer-80ms_168.110.101.249:443"
-    type: vless
-    server: 168.110.101.249
-    port: 443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选2-3.52MB/s-亚太-Hanguo-shouer-81ms_140.245.71.120:34237"
-    type: vless
-    server: 140.245.71.120
-    port: 34237
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选3-7.74MB/s-亚太-Malai-jilongpo-55ms_50.114.5.175:40356"
-    type: vless
-    server: 50.114.5.175
-    port: 40356
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选4-7.65MB/s-亚太-Malai-jilongpo-57ms_23.27.113.159:28416"
-    type: vless
-    server: 23.27.113.159
-    port: 28416
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选5-6.81MB/s-亚太-Malai-jilongpo-55ms_45.134.36.45:32196"
-    type: vless
-    server: 45.134.36.45
-    port: 32196
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选6-5.90MB/s-亚太-Malai-jilongpo-55ms_23.27.53.246:47615"
-    type: vless
-    server: 23.27.53.246
-    port: 47615
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选7-5.67MB/s-亚太-Malai-jilongpo-58ms_205.186.67.171:54557"
-    type: vless
-    server: 205.186.67.171
-    port: 54557
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选8-5.65MB/s-亚太-Malai-jilongpo-55ms_205.186.67.190:51637"
-    type: vless
-    server: 205.186.67.190
-    port: 51637
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选9-4.90MB/s-亚太-Malai-jilongpo-54ms_142.111.146.29:3037"
-    type: vless
-    server: 142.111.146.29
-    port: 3037
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选10-4.89MB/s-亚太-Malai-jilongpo-59ms_23.27.199.191:22028"
-    type: vless
-    server: 23.27.199.191
-    port: 22028
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选11-4.54MB/s-亚太-Malai-jilongpo-60ms_45.134.36.163:34573"
-    type: vless
-    server: 45.134.36.163
-    port: 34573
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选12-4.42MB/s-亚太-Malai-jilongpo-54ms_142.111.143.220:59890"
-    type: vless
-    server: 142.111.143.220
-    port: 59890
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选13-4.37MB/s-亚太-Malai-jilongpo-55ms_23.27.28.51:60137"
-    type: vless
-    server: 23.27.28.51
-    port: 60137
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选14-4.34MB/s-亚太-Malai-jilongpo-56ms_45.134.36.163:43976"
-    type: vless
-    server: 45.134.36.163
-    port: 43976
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选15-4.13MB/s-亚太-Malai-jilongpo-54ms_168.93.198.49:19726"
-    type: vless
-    server: 168.93.198.49
-    port: 19726
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选16-8.54MB/s-亚太-Xianggang-83ms_202.61.72.160:443"
-    type: vless
-    server: 202.61.72.160
-    port: 443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选17-7.84MB/s-亚太-Xianggang-9ms_47.239.237.237:443"
-    type: vless
-    server: 47.239.237.237
-    port: 443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选18-7.12MB/s-亚太-Xianggang-84ms_151.158.0.128:443"
-    type: vless
-    server: 151.158.0.128
-    port: 443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选19-5.25MB/s-亚太-Xianggang-86ms_166.88.141.226:34610"
-    type: vless
-    server: 166.88.141.226
-    port: 34610
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选20-4.71MB/s-亚太-Xianggang-81ms_96.126.179.246:443"
-    type: vless
-    server: 96.126.179.246
-    port: 443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选21-8.26MB/s-亚太-Xinjiapo-xinjiapo-55ms_45.134.36.4:28854"
-    type: vless
-    server: 45.134.36.4
-    port: 28854
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选22-6.26MB/s-亚太-Xinjiapo-xinjiapo-56ms_50.114.5.102:48899"
-    type: vless
-    server: 50.114.5.102
-    port: 48899
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选23-9.45MB/s-北美-Meiguo-shenghezai-12ms_47.75.104.254:443"
-    type: vless
-    server: 47.75.104.254
-    port: 443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选24-5.18MB/s-北美-Meiguo-shenghezai-170ms_134.199.180.23:443"
-    type: vless
-    server: 134.199.180.23
-    port: 443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选25-3.27MB/s-北美-Meiguo-luoshanji-172ms_129.146.242.248:443"
-    type: vless
-    server: 129.146.242.248
-    port: 443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选26-3.20MB/s-北美-Meiguo-luoshanji-180ms_129.153.214.154:8443"
-    type: vless
-    server: 129.153.214.154
-    port: 8443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选27-3.44MB/s-欧洲-Baogaliya-suofiya-233ms_94.72.143.231:443"
-    type: vless
-    server: 94.72.143.231
-    port: 443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选28-4.89MB/s-欧洲-Danmai-gebenhagen-201ms_193.181.211.218:443"
-    type: vless
-    server: 193.181.211.218
-    port: 443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选29-3.01MB/s-欧洲-Danmai-gebenhagen-214ms_77.37.96.247:443"
-    type: vless
-    server: 77.37.96.247
-    port: 443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选30-4.57MB/s-欧洲-Deguo-falanfuke-182ms_45.147.48.28:443"
-    type: vless
-    server: 45.147.48.28
-    port: 443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选31-3.97MB/s-欧洲-Deguo-falanfuke-200ms_78.47.146.151:443"
-    type: vless
-    server: 78.47.146.151
-    port: 443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选32-3.20MB/s-欧洲-Deguo-falanfuke-211ms_95.179.168.228:8443"
-    type: vless
-    server: 95.179.168.228
-    port: 8443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选33-3.09MB/s-欧洲-Deguo-falanfuke-226ms_146.70.20.100:443"
-    type: vless
-    server: 146.70.20.100
-    port: 443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选34-3.04MB/s-欧洲-Deguo-falanfuke-266ms_45.150.32.112:443"
-    type: vless
-    server: 45.150.32.112
-    port: 443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选35-3.47MB/s-欧洲-Fenlan-heersinki-231ms_78.17.113.202:443"
-    type: vless
-    server: 78.17.113.202
-    port: 443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选36-3.53MB/s-欧洲-Helan-amutesidan-220ms_104.249.40.219:443"
-    type: vless
-    server: 104.249.40.219
-    port: 443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选37-3.46MB/s-欧洲-Helan-amutesidan-205ms_195.189.96.247:8443"
-    type: vless
-    server: 195.189.96.247
-    port: 8443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选38-3.35MB/s-欧洲-Helan-amutesidan-255ms_157.22.179.184:443"
-    type: vless
-    server: 157.22.179.184
-    port: 443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选39-3.34MB/s-欧洲-Helan-amutesidan-211ms_153.76.116.102:443"
-    type: vless
-    server: 153.76.116.102
-    port: 443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选40-3.11MB/s-欧洲-Helan-amutesidan-213ms_2.26.83.202:443"
-    type: vless
-    server: 2.26.83.202
-    port: 443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选41-3.87MB/s-欧洲-Ruidian-gebenhagen-240ms_89.127.207.150:443"
-    type: vless
-    server: 89.127.207.150
-    port: 443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选42-3.60MB/s-欧洲-Ruidian-aosiluo-237ms_80.78.23.165:443"
-    type: vless
-    server: 80.78.23.165
-    port: 443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选43-3.41MB/s-欧洲-Yingguo-falanfuke-269ms_91.108.241.188:443"
-    type: vless
-    server: 91.108.241.188
-    port: 443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-优选44-4.28MB/s-大洋洲-Aodaliya-xini-212ms_193.177.221.29:443"
-    type: vless
-    server: 193.177.221.29
-    port: 443
-    uuid: 57d68ec3-6cc5-10e9-2bca-5ba3994aa783
-    cipher: auto
-    tls: true
-    skip-cert-verify: false
-    servername: qxblheyi.eduhk.dpdns.org
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: qxblheyi.eduhk.dpdns.org
-  - name: "别人-mycf2-xianggang-⚡TG@danfeng_chat [DanFeng]_34.150.68.221:8443"
-    type: vless
-    server: 34.150.68.221
-    port: 8443
-    uuid: 931a2c0b-688f-23b4-4a7d-96c69c9dd67b
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: xqfogzce.edutw.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: xqfogzce.edutw.cc.cd
-
-  - name: "别人-HKG 亚太香港 153ms 17.35MB/s_38.147.171.110:443"
-    type: vless
-    server: 38.147.171.110
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-HKG 亚太香港 158ms 17.28MB/s_149.104.25.189:1443"
-    type: vless
-    server: 149.104.25.189
-    port: 1443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-HKG 亚太香港 162ms 16.84MB/s_45.144.136.62:443"
-    type: vless
-    server: 45.144.136.62
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-HKG 亚太香港 165ms 16.10MB/s_207.57.123.210:443"
-    type: vless
-    server: 207.57.123.210
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-HKG 亚太香港 156ms 15.32MB/s_68.64.180.198:4432"
-    type: vless
-    server: 68.64.180.198
-    port: 4432
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-HKG 亚太香港 155ms 14.89MB/s_149.104.27.213:443"
-    type: vless
-    server: 149.104.27.213
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-HKG 亚太香港 160ms 13.02MB/s_68.64.178.52:443"
-    type: vless
-    server: 68.64.178.52
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-HKG 亚太香港 156ms 12.38MB/s_193.134.211.27:443"
-    type: vless
-    server: 193.134.211.27
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-HKG 亚太香港 159ms 12.37MB/s_149.104.25.189:2083"
-    type: vless
-    server: 149.104.25.189
-    port: 2083
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-HKG 亚太香港 152ms 12.13MB/s_207.57.122.65:443"
-    type: vless
-    server: 207.57.122.65
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-HKG 亚太香港 154ms 11.52MB/s_38.55.198.250:443"
-    type: vless
-    server: 38.55.198.250
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-HKG 亚太香港 161ms 11.13MB/s_207.57.124.35:443"
-    type: vless
-    server: 207.57.124.35
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-HKG 亚太香港 155ms 10.79MB/s_207.57.132.135:0793"
-    type: vless
-    server: 207.57.132.135
-    port: 793
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-HKG 亚太香港 157ms 10.58MB/s_186.244.250.67:443"
-    type: vless
-    server: 186.244.250.67
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-HKG 亚太香港 153ms 10.28MB/s_38.207.178.173:2087"
-    type: vless
-    server: 38.207.178.173
-    port: 2087
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-HKG 亚太香港 158ms 10.28MB/s_68.64.183.37:443"
-    type: vless
-    server: 68.64.183.37
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-HKG 亚太香港 161ms 10.17MB/s_193.134.211.209:443"
-    type: vless
-    server: 193.134.211.209
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-HKG 亚太香港 153ms 10.11MB/s_207.57.121.201:5002"
-    type: vless
-    server: 207.57.121.201
-    port: 5002
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-HKG 亚太香港 159ms 9.50MB/s_149.104.24.57:8443"
-    type: vless
-    server: 149.104.24.57
-    port: 8443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-SJC 北美洲美国圣何塞 11ms 50.55MB/s_38.59.243.217:23554"
-    type: vless
-    server: 38.59.243.217
-    port: 23554
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-SJC 北美洲美国圣何塞 12ms 49.02MB/s_38.59.246.45:443"
-    type: vless
-    server: 38.59.246.45
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-SJC 北美洲美国圣何塞 11ms 46.13MB/s_38.59.240.199:15124"
-    type: vless
-    server: 38.59.240.199
-    port: 15124
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-SJC 北美洲美国圣何塞 11ms 43.75MB/s_37.123.193.243:8174"
-    type: vless
-    server: 37.123.193.243
-    port: 8174
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-SJC 北美洲美国圣何塞 11ms 42.80MB/s_37.123.192.227:502"
-    type: vless
-    server: 37.123.192.227
-    port: 502
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-SJC 北美洲美国圣何塞 11ms 42.64MB/s_103.136.185.148:29262"
-    type: vless
-    server: 103.136.185.148
-    port: 29262
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-SJC 北美洲美国圣何塞 12ms 40.83MB/s_38.59.243.217:13614"
-    type: vless
-    server: 38.59.243.217
-    port: 13614
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-SJC 北美洲美国圣何塞 12ms 40.20MB/s_185.148.13.126:20555"
-    type: vless
-    server: 185.148.13.126
-    port: 20555
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-PDX 北美洲美国波特兰 1ms 76.45MB/s_185.198.26.178:443"
-    type: vless
-    server: 185.198.26.178
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-LAX 北美洲美国洛杉矶 1ms 70.80MB/s_31.220.30.234:52928"
-    type: vless
-    server: 31.220.30.234
-    port: 52928
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-LAX 北美洲美国洛杉矶 9ms 60.57MB/s_185.197.30.6:443"
-    type: vless
-    server: 185.197.30.6
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-LAX 北美洲美国洛杉矶 6ms 57.80MB/s_45.45.217.48:443"
-    type: vless
-    server: 45.45.217.48
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-LAX 北美洲美国洛杉矶 1ms 51.88MB/s_45.67.218.141:47441"
-    type: vless
-    server: 45.67.218.141
-    port: 47441
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-PDX 北美洲美国波特兰 1ms 50.30MB/s_31.220.30.234:30496"
-    type: vless
-    server: 31.220.30.234
-    port: 30496
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-LAX 北美洲美国洛杉矶 1ms 46.53MB/s_185.198.26.246:443"
-    type: vless
-    server: 185.198.26.246
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-ORD 北美洲芝加哥 52ms 26.93MB/s_193.29.62.138:56085"
-    type: vless
-    server: 193.29.62.138
-    port: 56085
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-EWR 北美洲美国纽瓦克 62ms 20.59MB/s_85.155.184.195:8501"
-    type: vless
-    server: 85.155.184.195
-    port: 8501
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-NRT 亚太日本东京 99ms 18.23MB/s_167.254.243.90:59186"
-    type: vless
-    server: 167.254.243.90
-    port: 59186
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-NRT 亚太日本东京 99ms 17.13MB/s_167.148.6.161:2087"
-    type: vless
-    server: 167.148.6.161
-    port: 2087
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-NRT 亚太日本东京 99ms 13.16MB/s_151.242.74.169:10443"
-    type: vless
-    server: 151.242.74.169
-    port: 10443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-CMIN2_167.148.203.3:443"
-    type: vless
-    server: 167.148.203.3
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-CMIN2_103.97.201.65:443"
-    type: vless
-    server: 103.97.201.65
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-CMIN2_151.243.229.191:443"
-    type: vless
-    server: 151.243.229.191
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-CMIN2_143.14.189.170:443"
-    type: vless
-    server: 143.14.189.170
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-CMIN2_167.148.203.107:443"
-    type: vless
-    server: 167.148.203.107
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-Xtom_三網優化_45.89.234.184:443"
-    type: vless
-    server: 45.89.234.184
-    port: 443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-Xtom_三網優化_45.94.40.71:2053"
-    type: vless
-    server: 45.94.40.71
-    port: 2053
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-Xtom_三網優化_45.153.247.62:8443"
-    type: vless
-    server: 45.153.247.62
-    port: 8443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-Xtom_三網優化_45.89.235.121:8443"
-    type: vless
-    server: 45.89.235.121
-    port: 8443
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-JP_177.2.21.2:55471"
-    type: vless
-    server: 177.2.21.2
-    port: 55471
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-JP_177.2.21.4:55471"
-    type: vless
-    server: 177.2.21.4
-    port: 55471
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-JP_177.2.21.5:55471"
-    type: vless
-    server: 177.2.21.5
-    port: 55471
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-JP_177.2.21.6:55471"
-    type: vless
-    server: 177.2.21.6
-    port: 55471
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-JP_177.2.21.7:55471"
-    type: vless
-    server: 177.2.21.7
-    port: 55471
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-HK_177.2.21.2:59853"
-    type: vless
-    server: 177.2.21.2
-    port: 59853
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-HK_177.2.21.4:59853"
-    type: vless
-    server: 177.2.21.4
-    port: 59853
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-HK_177.2.21.5:59853"
-    type: vless
-    server: 177.2.21.5
-    port: 59853
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-HK_177.2.21.6:59853"
-    type: vless
-    server: 177.2.21.6
-    port: 59853
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-  - name: "别人-HK_177.2.21.7:59853"
-    type: vless
-    server: 177.2.21.7
-    port: 59853
-    uuid: 1e47089d-e5ca-6943-43f9-4e3db24013f0
-    cipher: auto
-    tls: true
-    skip-cert-verify: true
-    servername: nlceclhi.artcn.cc.cd
-    network: ws
-    ws-opts:
-      path: "/pg/78978900-d858d435de7e2910"
-      headers:
-        Host: nlceclhi.artcn.cc.cd
-
-
-# cmin2
-  - name: "别人-三网优选-📡 电信推荐_172.64.229.199:443"
-    type: vless
-    server: 172.64.229.199
-    port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
-    cipher: auto
-    tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
-  - name: "别人-三网优选-📱 移动推荐_104.19.63.57:443"
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-三网优选-📱 移动推荐_104.17.26.2:443"
     type: vless
-    server: 104.19.63.57
+    server: 104.17.26.2
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
-  - name: "别人-三网优选-📶 联通推荐_172.67.72.208:443"
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-三网优选-📶 联通推荐_162.159.133.91:443"
     type: vless
-    server: 172.67.72.208
+    server: 162.159.133.91
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
-  - name: "别人-三网优选-🌐 多线推荐_172.64.229.117:443"
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-三网优选-🌐 多线推荐_172.64.229.185:443"
     type: vless
-    server: 172.64.229.117
+    server: 172.64.229.185
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
-  - name: "别人-📡 电信优选 Top 1_172.64.229.199:443"
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-📡 电信优选 Top 1_172.64.229.66:443"
     type: vless
-    server: 172.64.229.199
+    server: 172.64.229.66
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
-  - name: "别人-📡 电信优选 Top 2_104.18.44.6:443"
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-📡 电信优选 Top 2_104.18.28.34:443"
     type: vless
-    server: 104.18.44.6
+    server: 104.18.28.34
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
-  - name: "别人-📡 电信优选 Top 3_104.18.47.236:443"
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-📡 电信优选 Top 3_104.18.38.72:443"
     type: vless
-    server: 104.18.47.236
+    server: 104.18.38.72
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
-  - name: "别人-📡 电信优选 Top 4_104.18.40.65:443"
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-📡 电信优选 Top 4_104.18.41.11:443"
     type: vless
-    server: 104.18.40.65
+    server: 104.18.41.11
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
-  - name: "别人-📡 电信优选 Top 5_172.64.147.131:443"
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-📡 电信优选 Top 5_104.19.118.176:443"
     type: vless
-    server: 172.64.147.131
+    server: 104.19.118.176
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
-  - name: "别人-📡 电信优选 Top 6_104.18.99.229:443"
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-📡 电信优选 Top 6_104.18.62.205:443"
     type: vless
-    server: 104.18.99.229
+    server: 104.18.62.205
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
-  - name: "别人-📡 电信优选 Top 7_104.17.55.75:443"
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-📡 电信优选 Top 7_172.66.44.240:443"
     type: vless
-    server: 104.17.55.75
+    server: 172.66.44.240
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
-  - name: "别人-📡 电信优选 Top 8_104.16.79.159:443"
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-📡 电信优选 Top 8_104.16.248.77:443"
     type: vless
-    server: 104.16.79.159
+    server: 104.16.248.77
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
-  - name: "别人-📡 电信优选 Top 9_104.16.189.243:443"
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-📡 电信优选 Top 9_104.17.190.31:443"
     type: vless
-    server: 104.16.189.243
+    server: 104.17.190.31
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
-  - name: "别人-📡 电信优选 Top 10_104.18.49.213:443"
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-📡 电信优选 Top 10_104.18.204.196:443"
     type: vless
-    server: 104.18.49.213
+    server: 104.18.204.196
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-以下為移動官方cmin2 [官方CMIN2优选]_dlink.com:443"
     type: vless
     server: dlink.com
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
-  - name: "别人-滇-京-津-粤-新-南京-浙-琼-湘-鄂-甘-贵-辽-黑-地區為cmin2 [官方CMIN2优选]_mbda.gov:443"
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-滇-京-津-粤-新-南京-蘇州-浙-琼-湘-鄂-甘-贵-辽-黑-地區為cmin2 [官方CMIN2优选]_mbda.gov:443"
     type: vless
     server: mbda.gov
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-其他地區不是cmin2 [官方CMIN2优选]_openai.com:443"
     type: vless
     server: openai.com
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-沒有備注-移動用全是HK [官方CMIN2优选]_www.acm.org:443"
     type: vless
     server: www.acm.org
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-延遲低的才是地區專用優選-其他延遲高不穩定都可以刪掉 [官方CMIN2优选]_www.cortera.com:443"
     type: vless
     server: www.cortera.com
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-此列表幾乎不會變化-不需要頻繁訂閱 [官方CMIN2优选]_www.dbs.com:443"
     type: vless
     server: www.dbs.com
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-不好用就是不合適-找其他人訂閱試試 [官方CMIN2优选]_www.shopify.com:443"
     type: vless
     server: www.shopify.com
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-蘇州-可能是整個江蘇-移動cmin2 [官方CMIN2优选]_172.64.228.248:443"
+    type: vless
+    server: 172.64.228.248
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-蘇州-可能是整個江蘇-移動cmin2 [官方CMIN2优选]_172.64.229.8:443"
+    type: vless
+    server: 172.64.229.8
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-蘇州-可能是整個江蘇-移動cmin2 [官方CMIN2优选]_172.64.229.248:443"
+    type: vless
+    server: 172.64.229.248
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.16.130.3 [官方CMIN2优选]_104.16.130.3:443"
     type: vless
     server: 104.16.130.3
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.16.133.229 [官方CMIN2优选]_104.16.133.229:443"
     type: vless
     server: 104.16.133.229
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.16.142.237 [官方CMIN2优选]_104.16.142.237:443"
     type: vless
     server: 104.16.142.237
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.16.143.237 [官方CMIN2优选]_104.16.143.237:443"
     type: vless
     server: 104.16.143.237
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.16.184.241 [官方CMIN2优选]_104.16.184.241:443"
     type: vless
     server: 104.16.184.241
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.16.185.241 [官方CMIN2优选]_104.16.185.241:443"
     type: vless
     server: 104.16.185.241
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.16.4.14 [官方CMIN2优选]_104.16.4.14:443"
     type: vless
     server: 104.16.4.14
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.17.135.61 [官方CMIN2优选]_104.17.135.61:443"
     type: vless
     server: 104.17.135.61
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.17.136.61 [官方CMIN2优选]_104.17.136.61:443"
     type: vless
     server: 104.17.136.61
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.17.169.66 [官方CMIN2优选]_104.17.169.66:443"
     type: vless
     server: 104.17.169.66
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.17.170.66 [官方CMIN2优选]_104.17.170.66:443"
     type: vless
     server: 104.17.170.66
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.17.179.183 [官方CMIN2优选]_104.17.179.183:443"
     type: vless
     server: 104.17.179.183
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.17.180.183 [官方CMIN2优选]_104.17.180.183:443"
     type: vless
     server: 104.17.180.183
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.17.245.203 [官方CMIN2优选]_104.17.245.203:443"
     type: vless
     server: 104.17.245.203
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.17.246.203 [官方CMIN2优选]_104.17.246.203:443"
     type: vless
     server: 104.17.246.203
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.17.247.203 [官方CMIN2优选]_104.17.247.203:443"
     type: vless
     server: 104.17.247.203
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.17.248.203 [官方CMIN2优选]_104.17.248.203:443"
     type: vless
     server: 104.17.248.203
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.17.249.203 [官方CMIN2优选]_104.17.249.203:443"
     type: vless
     server: 104.17.249.203
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.17.32.105 [官方CMIN2优选]_104.17.32.105:443"
     type: vless
     server: 104.17.32.105
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.17.78.30 [官方CMIN2优选]_104.17.78.30:443"
     type: vless
     server: 104.17.78.30
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.17.79.30 [官方CMIN2优选]_104.17.79.30:443"
     type: vless
     server: 104.17.79.30
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.18.0.22 [官方CMIN2优选]_104.18.0.22:443"
     type: vless
     server: 104.18.0.22
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.18.1.22 [官方CMIN2优选]_104.18.1.22:443"
     type: vless
     server: 104.18.1.22
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.18.124.114 [官方CMIN2优选]_104.18.124.114:443"
     type: vless
     server: 104.18.124.114
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.18.14.16 [官方CMIN2优选]_104.18.14.16:443"
     type: vless
     server: 104.18.14.16
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.18.141.67 [官方CMIN2优选]_104.18.141.67:443"
     type: vless
     server: 104.18.141.67
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.18.15.16 [官方CMIN2优选]_104.18.15.16:443"
     type: vless
     server: 104.18.15.16
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.18.21.186 [官方CMIN2优选]_104.18.21.186:443"
     type: vless
     server: 104.18.21.186
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.18.26.122 [官方CMIN2优选]_104.18.26.122:443"
     type: vless
     server: 104.18.26.122
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.18.27.122 [官方CMIN2优选]_104.18.27.122:443"
     type: vless
     server: 104.18.27.122
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.18.34.12 [官方CMIN2优选]_104.18.34.12:443"
     type: vless
     server: 104.18.34.12
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.18.34.21 [官方CMIN2优选]_104.18.34.21:443"
     type: vless
     server: 104.18.34.21
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.18.34.254 [官方CMIN2优选]_104.18.34.254:443"
     type: vless
     server: 104.18.34.254
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.18.36.35 [官方CMIN2优选]_104.18.36.35:443"
     type: vless
     server: 104.18.36.35
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.18.40.141 [官方CMIN2优选]_104.18.40.141:443"
     type: vless
     server: 104.18.40.141
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.18.41.99 [官方CMIN2优选]_104.18.41.99:443"
     type: vless
     server: 104.18.41.99
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.18.42.163 [官方CMIN2优选]_104.18.42.163:443"
     type: vless
     server: 104.18.42.163
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.21.37.203 [官方CMIN2优选]_104.21.37.203:443"
     type: vless
     server: 104.21.37.203
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.26.2.247 [官方CMIN2优选]_104.26.2.247:443"
     type: vless
     server: 104.26.2.247
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.26.3.247 [官方CMIN2优选]_104.26.3.247:443"
     type: vless
     server: 104.26.3.247
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-104.26.8.123 [官方CMIN2优选]_104.26.8.123:443"
     type: vless
     server: 104.26.8.123
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-162.159.129.87 [官方CMIN2优选]_162.159.129.87:443"
     type: vless
     server: 162.159.129.87
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-162.159.130.87 [官方CMIN2优选]_162.159.130.87:443"
     type: vless
     server: 162.159.130.87
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-172.64.145.93 [官方CMIN2优选]_172.64.145.93:443"
     type: vless
     server: 172.64.145.93
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-172.64.146.157 [官方CMIN2优选]_172.64.146.157:443"
     type: vless
     server: 172.64.146.157
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-172.64.147.115 [官方CMIN2优选]_172.64.147.115:443"
     type: vless
     server: 172.64.147.115
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-172.64.148.42 [官方CMIN2优选]_172.64.148.42:443"
     type: vless
     server: 172.64.148.42
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-172.64.151.221 [官方CMIN2优选]_172.64.151.221:443"
     type: vless
     server: 172.64.151.221
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-172.64.153.2 [官方CMIN2优选]_172.64.153.2:443"
     type: vless
     server: 172.64.153.2
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-172.64.153.235 [官方CMIN2优选]_172.64.153.235:443"
     type: vless
     server: 172.64.153.235
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-172.64.153.244 [官方CMIN2优选]_172.64.153.244:443"
     type: vless
     server: 172.64.153.244
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-172.65.90.24 [官方CMIN2优选]_172.65.90.24:443"
     type: vless
     server: 172.65.90.24
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-172.65.90.25 [官方CMIN2优选]_172.65.90.25:443"
     type: vless
     server: 172.65.90.25
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-172.65.90.26 [官方CMIN2优选]_172.65.90.26:443"
     type: vless
     server: 172.65.90.26
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-172.65.90.27 [官方CMIN2优选]_172.65.90.27:443"
     type: vless
     server: 172.65.90.27
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-172.66.135.198 [官方CMIN2优选]_172.66.135.198:443"
     type: vless
     server: 172.66.135.198
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-172.66.135.29 [官方CMIN2优选]_172.66.135.29:443"
     type: vless
     server: 172.66.135.29
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-172.66.137.42 [官方CMIN2优选]_172.66.137.42:443"
     type: vless
     server: 172.66.137.42
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-172.66.139.130 [官方CMIN2优选]_172.66.139.130:443"
     type: vless
     server: 172.66.139.130
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-172.67.212.229 [官方CMIN2优选]_172.67.212.229:443"
     type: vless
     server: 172.67.212.229
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-172.67.70.218 [官方CMIN2优选]_172.67.70.218:443"
     type: vless
     server: 172.67.70.218
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-172.67.70.250 [官方CMIN2优选]_172.67.70.250:443"
     type: vless
     server: 172.67.70.250
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-172.67.70.83 [官方CMIN2优选]_172.67.70.83:443"
     type: vless
     server: 172.67.70.83
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-23.227.38.33 [官方CMIN2优选]_23.227.38.33:443"
     type: vless
     server: 23.227.38.33
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-23.227.38.74 [官方CMIN2优选]_23.227.38.74:443"
     type: vless
     server: 23.227.38.74
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
   - name: "别人-23.227.39.200 [官方CMIN2优选]_23.227.39.200:443"
     type: vless
     server: 23.227.39.200
     port: 443
-    uuid: b8310169-9008-5146-63ce-39d09b4d4045
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
     cipher: auto
     tls: true
     skip-cert-verify: true
-    servername: xjdpwpwf.artcn.cc.cd
+    servername: 006xxxx.ssp.ndjp.net
     network: ws
     ws-opts:
       path: "/pg/78978900-d858d435de7e2910"
       headers:
-        Host: xjdpwpwf.artcn.cc.cd
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选1-亚太-香港_43.169.19.179:443"
+    type: vless
+    server: 43.169.19.179
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选2-亚太-香港_43.174.192.1:443"
+    type: vless
+    server: 43.174.192.1
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选3-亚太-香港_151.245.90.155:443"
+    type: vless
+    server: 151.245.90.155
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选4-亚太-香港_82.152.165.153:443"
+    type: vless
+    server: 82.152.165.153
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选5-亚太-香港_87.83.110.203:443"
+    type: vless
+    server: 87.83.110.203
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选6-亚太-香港_82.152.164.229:443"
+    type: vless
+    server: 82.152.164.229
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选7-亚太-香港_82.152.165.151:443"
+    type: vless
+    server: 82.152.165.151
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选8-亚太-香港_209.33.167.234:443"
+    type: vless
+    server: 209.33.167.234
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选9-亚太-香港_45.207.156.69:8443"
+    type: vless
+    server: 45.207.156.69
+    port: 8443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选10-亚太-香港_82.152.163.180:443"
+    type: vless
+    server: 82.152.163.180
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-mycf2-xianggang-⚡TG@danfeng_chat [DanFeng] 2_82.152.164.154:443"
+    type: vless
+    server: 82.152.164.154
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-广东移动优选域名_cmin2.pjq.cc.cd:443"
+    type: vless
+    server: cmin2.pjq.cc.cd
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-CMIN2_167.148.203.3:443"
+    type: vless
+    server: 167.148.203.3
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-CMIN2_103.97.201.65:443"
+    type: vless
+    server: 103.97.201.65
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-CMIN2_151.243.229.191:443"
+    type: vless
+    server: 151.243.229.191
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-CMIN2_143.14.189.170:443"
+    type: vless
+    server: 143.14.189.170
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-CMIN2_167.148.203.107:443"
+    type: vless
+    server: 167.148.203.107
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-Xtom_三網優化_45.89.234.184:443"
+    type: vless
+    server: 45.89.234.184
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-Xtom_三網優化_45.94.40.71:2053"
+    type: vless
+    server: 45.94.40.71
+    port: 2053
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-Xtom_三網優化_45.153.247.62:8443"
+    type: vless
+    server: 45.153.247.62
+    port: 8443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-Xtom_三網優化_45.89.235.121:8443"
+    type: vless
+    server: 45.89.235.121
+    port: 8443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-HK_177.2.21.2:59853"
+    type: vless
+    server: 177.2.21.2
+    port: 59853
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-HK_177.2.21.4:59853"
+    type: vless
+    server: 177.2.21.4
+    port: 59853
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-HK_177.2.21.5:59853"
+    type: vless
+    server: 177.2.21.5
+    port: 59853
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-HK_177.2.21.6:59853"
+    type: vless
+    server: 177.2.21.6
+    port: 59853
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-HK_177.2.21.7:59853"
+    type: vless
+    server: 177.2.21.7
+    port: 59853
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选1-4.48MB/s-亚太-Hanguo-shouer-80ms_168.110.101.249:443"
+    type: vless
+    server: 168.110.101.249
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选2-3.52MB/s-亚太-Hanguo-shouer-81ms_140.245.71.120:34237"
+    type: vless
+    server: 140.245.71.120
+    port: 34237
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选3-7.74MB/s-亚太-Malai-jilongpo-55ms_50.114.5.175:40356"
+    type: vless
+    server: 50.114.5.175
+    port: 40356
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选4-7.65MB/s-亚太-Malai-jilongpo-57ms_23.27.113.159:28416"
+    type: vless
+    server: 23.27.113.159
+    port: 28416
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选5-6.81MB/s-亚太-Malai-jilongpo-55ms_45.134.36.45:32196"
+    type: vless
+    server: 45.134.36.45
+    port: 32196
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选6-5.90MB/s-亚太-Malai-jilongpo-55ms_23.27.53.246:47615"
+    type: vless
+    server: 23.27.53.246
+    port: 47615
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选7-5.67MB/s-亚太-Malai-jilongpo-58ms_205.186.67.171:54557"
+    type: vless
+    server: 205.186.67.171
+    port: 54557
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选8-5.65MB/s-亚太-Malai-jilongpo-55ms_205.186.67.190:51637"
+    type: vless
+    server: 205.186.67.190
+    port: 51637
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选9-4.90MB/s-亚太-Malai-jilongpo-54ms_142.111.146.29:3037"
+    type: vless
+    server: 142.111.146.29
+    port: 3037
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选10-4.89MB/s-亚太-Malai-jilongpo-59ms_23.27.199.191:22028"
+    type: vless
+    server: 23.27.199.191
+    port: 22028
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选11-4.54MB/s-亚太-Malai-jilongpo-60ms_45.134.36.163:34573"
+    type: vless
+    server: 45.134.36.163
+    port: 34573
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选12-4.42MB/s-亚太-Malai-jilongpo-54ms_142.111.143.220:59890"
+    type: vless
+    server: 142.111.143.220
+    port: 59890
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选13-4.37MB/s-亚太-Malai-jilongpo-55ms_23.27.28.51:60137"
+    type: vless
+    server: 23.27.28.51
+    port: 60137
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选14-4.34MB/s-亚太-Malai-jilongpo-56ms_45.134.36.163:43976"
+    type: vless
+    server: 45.134.36.163
+    port: 43976
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选15-4.13MB/s-亚太-Malai-jilongpo-54ms_168.93.198.49:19726"
+    type: vless
+    server: 168.93.198.49
+    port: 19726
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选16-8.54MB/s-亚太-Xianggang-83ms_202.61.72.160:443"
+    type: vless
+    server: 202.61.72.160
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选17-7.84MB/s-亚太-Xianggang-9ms_47.239.237.237:443"
+    type: vless
+    server: 47.239.237.237
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选18-7.12MB/s-亚太-Xianggang-84ms_151.158.0.128:443"
+    type: vless
+    server: 151.158.0.128
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选19-5.25MB/s-亚太-Xianggang-86ms_166.88.141.226:34610"
+    type: vless
+    server: 166.88.141.226
+    port: 34610
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选20-4.71MB/s-亚太-Xianggang-81ms_96.126.179.246:443"
+    type: vless
+    server: 96.126.179.246
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选21-8.26MB/s-亚太-Xinjiapo-xinjiapo-55ms_45.134.36.4:28854"
+    type: vless
+    server: 45.134.36.4
+    port: 28854
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选22-6.26MB/s-亚太-Xinjiapo-xinjiapo-56ms_50.114.5.102:48899"
+    type: vless
+    server: 50.114.5.102
+    port: 48899
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选23-9.45MB/s-北美-Meiguo-shenghezai-12ms_47.75.104.254:443"
+    type: vless
+    server: 47.75.104.254
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选24-5.18MB/s-北美-Meiguo-shenghezai-170ms_134.199.180.23:443"
+    type: vless
+    server: 134.199.180.23
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选25-3.27MB/s-北美-Meiguo-luoshanji-172ms_129.146.242.248:443"
+    type: vless
+    server: 129.146.242.248
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选26-3.20MB/s-北美-Meiguo-luoshanji-180ms_129.153.214.154:8443"
+    type: vless
+    server: 129.153.214.154
+    port: 8443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选27-3.44MB/s-欧洲-Baogaliya-suofiya-233ms_94.72.143.231:443"
+    type: vless
+    server: 94.72.143.231
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选28-4.89MB/s-欧洲-Danmai-gebenhagen-201ms_193.181.211.218:443"
+    type: vless
+    server: 193.181.211.218
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选29-3.01MB/s-欧洲-Danmai-gebenhagen-214ms_77.37.96.247:443"
+    type: vless
+    server: 77.37.96.247
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选30-4.57MB/s-欧洲-Deguo-falanfuke-182ms_45.147.48.28:443"
+    type: vless
+    server: 45.147.48.28
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选31-3.97MB/s-欧洲-Deguo-falanfuke-200ms_78.47.146.151:443"
+    type: vless
+    server: 78.47.146.151
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选32-3.20MB/s-欧洲-Deguo-falanfuke-211ms_95.179.168.228:8443"
+    type: vless
+    server: 95.179.168.228
+    port: 8443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选33-3.09MB/s-欧洲-Deguo-falanfuke-226ms_146.70.20.100:443"
+    type: vless
+    server: 146.70.20.100
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选34-3.04MB/s-欧洲-Deguo-falanfuke-266ms_45.150.32.112:443"
+    type: vless
+    server: 45.150.32.112
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选35-3.47MB/s-欧洲-Fenlan-heersinki-231ms_78.17.113.202:443"
+    type: vless
+    server: 78.17.113.202
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选36-3.53MB/s-欧洲-Helan-amutesidan-220ms_104.249.40.219:443"
+    type: vless
+    server: 104.249.40.219
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选37-3.46MB/s-欧洲-Helan-amutesidan-205ms_195.189.96.247:8443"
+    type: vless
+    server: 195.189.96.247
+    port: 8443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选38-3.35MB/s-欧洲-Helan-amutesidan-255ms_157.22.179.184:443"
+    type: vless
+    server: 157.22.179.184
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选39-3.34MB/s-欧洲-Helan-amutesidan-211ms_153.76.116.102:443"
+    type: vless
+    server: 153.76.116.102
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选40-3.11MB/s-欧洲-Helan-amutesidan-213ms_2.26.83.202:443"
+    type: vless
+    server: 2.26.83.202
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选41-3.87MB/s-欧洲-Ruidian-gebenhagen-240ms_89.127.207.150:443"
+    type: vless
+    server: 89.127.207.150
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选42-3.60MB/s-欧洲-Ruidian-aosiluo-237ms_80.78.23.165:443"
+    type: vless
+    server: 80.78.23.165
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选43-3.41MB/s-欧洲-Yingguo-falanfuke-269ms_91.108.241.188:443"
+    type: vless
+    server: 91.108.241.188
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选44-4.28MB/s-大洋洲-Aodaliya-xini-212ms_193.177.221.29:443"
+    type: vless
+    server: 193.177.221.29
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选1-6.23MB/s-亚太-Hanguo-shouer-66ms_123.111.169.70:2083"
+    type: vless
+    server: 123.111.169.70
+    port: 2083
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选2-7.86MB/s-亚太-Riben-dongjing-76ms_154.83.91.206:443"
+    type: vless
+    server: 154.83.91.206
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选3-5.73MB/s-亚太-Riben-daban-91ms_166.88.98.246:443"
+    type: vless
+    server: 166.88.98.246
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选4-5.41MB/s-亚太-Riben-dongjing-99ms_140.235.37.85:443"
+    type: vless
+    server: 140.235.37.85
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选5-5.40MB/s-亚太-Riben-dongjing-80ms_147.79.20.197:443"
+    type: vless
+    server: 147.79.20.197
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选6-9.63MB/s-亚太-Xianggang-36ms_154.12.188.210:2096"
+    type: vless
+    server: 154.12.188.210
+    port: 2096
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选7-7.87MB/s-北美-Meiguo-dalasi-163ms_107.155.87.102:8443"
+    type: vless
+    server: 107.155.87.102
+    port: 8443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选8-7.72MB/s-北美-Meiguo-luoshanji-163ms_104.168.24.34:443"
+    type: vless
+    server: 104.168.24.34
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选9-7.05MB/s-北美-Meiguo-luoshanji-161ms_142.248.218.15:2053"
+    type: vless
+    server: 142.248.218.15
+    port: 2053
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选10-6.27MB/s-北美-Meiguo-shenghezai-156ms_104.168.88.47:8443"
+    type: vless
+    server: 104.168.88.47
+    port: 8443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选11-5.63MB/s-北美-Meiguo-luoshanji-162ms_142.248.218.111:2053"
+    type: vless
+    server: 142.248.218.111
+    port: 2053
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选12-5.59MB/s-北美-Meiguo-shenghezai-159ms_147.224.59.149:443"
+    type: vless
+    server: 147.224.59.149
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选13-5.44MB/s-北美-Meiguo-luoshanji-163ms_149.28.94.52:443"
+    type: vless
+    server: 149.28.94.52
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选14-5.44MB/s-北美-Meiguo-shenghezai-158ms_107.174.252.170:2087"
+    type: vless
+    server: 107.174.252.170
+    port: 2087
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-优选15-5.35MB/s-北美-Meiguo-luoshanji-163ms_142.248.218.105:2053"
+    type: vless
+    server: 142.248.218.105
+    port: 2053
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-▼ 精选域名 迷你版 | 优选网BestCF.pages.dev_162.159.198.1:8443"
+    type: vless
+    server: 162.159.198.1
+    port: 8443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-官方入口 | MASQUE_162.159.198.1:443"
+    type: vless
+    server: 162.159.198.1
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-官方入口 | ZeroTrust_162.159.197.1:443"
+    type: vless
+    server: 162.159.197.1
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-企业域名 | 迪卡侬_www.decathlon.com:443"
+    type: vless
+    server: www.decathlon.com
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-企业域名 | 阿斯达_www.asda.com:443"
+    type: vless
+    server: www.asda.com
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-企业域名 | 山姆会员_serviceshub.samsclub.com:443"
+    type: vless
+    server: serviceshub.samsclub.com
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-企业域名 | 安联集团_www.allianz.com:443"
+    type: vless
+    server: www.allianz.com
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-企业域名 | 育碧商城_store.ubi.com:443"
+    type: vless
+    server: store.ubi.com
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-企业域名 | Shopify_www.shopify.com:443"
+    type: vless
+    server: www.shopify.com
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-企业域名 | Cookiebot_cookiebot.com:443"
+    type: vless
+    server: cookiebot.com
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-大佬维护 | MIYU_saas.sin.fan:443"
+    type: vless
+    server: saas.sin.fan
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-大佬维护 | Sukka_skk.moe:443"
+    type: vless
+    server: skk.moe
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-大佬维护 | WeTest_cloudflare.182682.xyz:443"
+    type: vless
+    server: cloudflare.182682.xyz
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-大佬维护 | CMLiu_cf.090227.xyz:443"
+    type: vless
+    server: cf.090227.xyz
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-大佬维护 | YGKKK_yg1.ygkkk.dpdns.org:443"
+    type: vless
+    server: yg1.ygkkk.dpdns.org
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-▲ 精选域名 | 8-3 | 分享免费优选网 BestCF.pages.dev_162.159.197.1:8443"
+    type: vless
+    server: 162.159.197.1
+    port: 8443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-S5公益优选 TW版 | 10-20 21:37 | BestCF.pages.dev_162.159.198.1:443"
+    type: vless
+    server: 162.159.198.1
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-S5公益优选 | 宝岛正妹 | TW | 140.235.39.19:443"
+    type: vless
+    server: 140.235.39.19
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-S5公益优选 | 宝岛正妹 | TW | 82.152.91.210:443"
+    type: vless
+    server: 82.152.91.210
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-S5公益优选 | 宝岛正妹 | TW | 83.147.13.193:443"
+    type: vless
+    server: 83.147.13.193
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-S5公益优选 | 分享免费优选网 BestCF.pages.dev_162.159.197.1:443"
+    type: vless
+    server: 162.159.197.1
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-HKG 亚太香港 153ms 17.35MB/s_38.147.171.110:443"
+    type: vless
+    server: 38.147.171.110
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-HKG 亚太香港 158ms 17.28MB/s_149.104.25.189:1443"
+    type: vless
+    server: 149.104.25.189
+    port: 1443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-HKG 亚太香港 162ms 16.84MB/s_45.144.136.62:443"
+    type: vless
+    server: 45.144.136.62
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-HKG 亚太香港 165ms 16.10MB/s_207.57.123.210:443"
+    type: vless
+    server: 207.57.123.210
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-HKG 亚太香港 156ms 15.32MB/s_68.64.180.198:4432"
+    type: vless
+    server: 68.64.180.198
+    port: 4432
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-HKG 亚太香港 155ms 14.89MB/s_149.104.27.213:443"
+    type: vless
+    server: 149.104.27.213
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-HKG 亚太香港 160ms 13.02MB/s_68.64.178.52:443"
+    type: vless
+    server: 68.64.178.52
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-HKG 亚太香港 156ms 12.38MB/s_193.134.211.27:443"
+    type: vless
+    server: 193.134.211.27
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-HKG 亚太香港 159ms 12.37MB/s_149.104.25.189:2083"
+    type: vless
+    server: 149.104.25.189
+    port: 2083
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-HKG 亚太香港 152ms 12.13MB/s_207.57.122.65:443"
+    type: vless
+    server: 207.57.122.65
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-HKG 亚太香港 154ms 11.52MB/s_38.55.198.250:443"
+    type: vless
+    server: 38.55.198.250
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-HKG 亚太香港 161ms 11.13MB/s_207.57.124.35:443"
+    type: vless
+    server: 207.57.124.35
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-HKG 亚太香港 155ms 10.79MB/s_207.57.132.135:0793"
+    type: vless
+    server: 207.57.132.135
+    port: 793
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-HKG 亚太香港 157ms 10.58MB/s_186.244.250.67:443"
+    type: vless
+    server: 186.244.250.67
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-HKG 亚太香港 153ms 10.28MB/s_38.207.178.173:2087"
+    type: vless
+    server: 38.207.178.173
+    port: 2087
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-HKG 亚太香港 158ms 10.28MB/s_68.64.183.37:443"
+    type: vless
+    server: 68.64.183.37
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-HKG 亚太香港 161ms 10.17MB/s_193.134.211.209:443"
+    type: vless
+    server: 193.134.211.209
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-HKG 亚太香港 153ms 10.11MB/s_207.57.121.201:5002"
+    type: vless
+    server: 207.57.121.201
+    port: 5002
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-HKG 亚太香港 159ms 9.50MB/s_149.104.24.57:8443"
+    type: vless
+    server: 149.104.24.57
+    port: 8443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-SJC 北美洲美国圣何塞 11ms 50.55MB/s_38.59.243.217:23554"
+    type: vless
+    server: 38.59.243.217
+    port: 23554
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-SJC 北美洲美国圣何塞 12ms 49.02MB/s_38.59.246.45:443"
+    type: vless
+    server: 38.59.246.45
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-SJC 北美洲美国圣何塞 11ms 46.13MB/s_38.59.240.199:15124"
+    type: vless
+    server: 38.59.240.199
+    port: 15124
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-SJC 北美洲美国圣何塞 11ms 43.75MB/s_37.123.193.243:8174"
+    type: vless
+    server: 37.123.193.243
+    port: 8174
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-SJC 北美洲美国圣何塞 11ms 42.80MB/s_37.123.192.227:502"
+    type: vless
+    server: 37.123.192.227
+    port: 502
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-SJC 北美洲美国圣何塞 11ms 42.64MB/s_103.136.185.148:29262"
+    type: vless
+    server: 103.136.185.148
+    port: 29262
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-SJC 北美洲美国圣何塞 12ms 40.83MB/s_38.59.243.217:13614"
+    type: vless
+    server: 38.59.243.217
+    port: 13614
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-SJC 北美洲美国圣何塞 12ms 40.20MB/s_185.148.13.126:20555"
+    type: vless
+    server: 185.148.13.126
+    port: 20555
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-PDX 北美洲美国波特兰 1ms 76.45MB/s_185.198.26.178:443"
+    type: vless
+    server: 185.198.26.178
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-LAX 北美洲美国洛杉矶 1ms 70.80MB/s_31.220.30.234:52928"
+    type: vless
+    server: 31.220.30.234
+    port: 52928
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-LAX 北美洲美国洛杉矶 9ms 60.57MB/s_185.197.30.6:443"
+    type: vless
+    server: 185.197.30.6
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-LAX 北美洲美国洛杉矶 6ms 57.80MB/s_45.45.217.48:443"
+    type: vless
+    server: 45.45.217.48
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-LAX 北美洲美国洛杉矶 1ms 51.88MB/s_45.67.218.141:47441"
+    type: vless
+    server: 45.67.218.141
+    port: 47441
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-PDX 北美洲美国波特兰 1ms 50.30MB/s_31.220.30.234:30496"
+    type: vless
+    server: 31.220.30.234
+    port: 30496
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-LAX 北美洲美国洛杉矶 1ms 46.53MB/s_185.198.26.246:443"
+    type: vless
+    server: 185.198.26.246
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-ORD 北美洲芝加哥 52ms 26.93MB/s_193.29.62.138:56085"
+    type: vless
+    server: 193.29.62.138
+    port: 56085
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-EWR 北美洲美国纽瓦克 62ms 20.59MB/s_85.155.184.195:8501"
+    type: vless
+    server: 85.155.184.195
+    port: 8501
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-NRT 亚太日本东京 99ms 18.23MB/s_167.254.243.90:59186"
+    type: vless
+    server: 167.254.243.90
+    port: 59186
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-NRT 亚太日本东京 99ms 17.13MB/s_167.148.6.161:2087"
+    type: vless
+    server: 167.148.6.161
+    port: 2087
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-NRT 亚太日本东京 99ms 13.16MB/s_151.242.74.169:10443"
+    type: vless
+    server: 151.242.74.169
+    port: 10443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-FRA 欧洲德国法兰克福 159ms 9.86MB/s_103.63.30.19:443"
+    type: vless
+    server: 103.63.30.19
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-ZRH 欧洲苏黎世 161ms 9.83MB/s_103.63.30.215:8433"
+    type: vless
+    server: 103.63.30.215
+    port: 8433
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-AMS 欧洲荷兰阿姆斯特丹 153ms 9.76MB/s_31.220.42.24:443"
+    type: vless
+    server: 31.220.42.24
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-VIE 欧洲奥地利维也纳 173ms 9.54MB/s_45.91.94.23:443"
+    type: vless
+    server: 45.91.94.23
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_103.53.80.44:443"
+    type: vless
+    server: 103.53.80.44
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_45.89.235.139:443"
+    type: vless
+    server: 45.89.235.139
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_103.201.130.98:443"
+    type: vless
+    server: 103.201.130.98
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_185.200.64.17:443"
+    type: vless
+    server: 185.200.64.17
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_185.200.64.193:8443"
+    type: vless
+    server: 185.200.64.193
+    port: 8443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_45.143.234.108:443"
+    type: vless
+    server: 45.143.234.108
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_109.107.140.90:443"
+    type: vless
+    server: 109.107.140.90
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_45.89.235.243:443"
+    type: vless
+    server: 45.89.235.243
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_147.78.245.213:443"
+    type: vless
+    server: 147.78.245.213
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_45.92.159.134:8443"
+    type: vless
+    server: 45.92.159.134
+    port: 8443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_176.119.149.115:443"
+    type: vless
+    server: 176.119.149.115
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_45.143.235.64:443"
+    type: vless
+    server: 45.143.235.64
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_149.62.44.239:443"
+    type: vless
+    server: 149.62.44.239
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_45.89.232.128:443"
+    type: vless
+    server: 45.89.232.128
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_45.66.217.92:443"
+    type: vless
+    server: 45.66.217.92
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_45.129.9.43:443"
+    type: vless
+    server: 45.129.9.43
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_62.106.70.68:443"
+    type: vless
+    server: 62.106.70.68
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_103.47.186.8:443"
+    type: vless
+    server: 103.47.186.8
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_185.200.64.15:443"
+    type: vless
+    server: 185.200.64.15
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_45.89.232.185:443"
+    type: vless
+    server: 45.89.232.185
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_45.89.234.54:443"
+    type: vless
+    server: 45.89.234.54
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_103.201.130.32:443"
+    type: vless
+    server: 103.201.130.32
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_45.89.235.39:443"
+    type: vless
+    server: 45.89.235.39
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_43.239.249.97:443"
+    type: vless
+    server: 43.239.249.97
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_141.98.196.40:443"
+    type: vless
+    server: 141.98.196.40
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_185.200.66.10:443"
+    type: vless
+    server: 185.200.66.10
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_45.94.40.79:8443"
+    type: vless
+    server: 45.94.40.79
+    port: 8443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_185.200.64.132:443"
+    type: vless
+    server: 185.200.64.132
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_62.106.70.39:443"
+    type: vless
+    server: 62.106.70.39
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_45.8.113.90:443"
+    type: vless
+    server: 45.8.113.90
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_45.142.126.231:443"
+    type: vless
+    server: 45.142.126.231
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_91.200.243.254:443"
+    type: vless
+    server: 91.200.243.254
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_103.53.80.239:443"
+    type: vless
+    server: 103.53.80.239
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_176.119.149.182:443"
+    type: vless
+    server: 176.119.149.182
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_45.153.246.47:443"
+    type: vless
+    server: 45.153.246.47
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_45.142.127.27:443"
+    type: vless
+    server: 45.142.127.27
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_43.239.249.176:443"
+    type: vless
+    server: 43.239.249.176
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_45.143.131.150:443"
+    type: vless
+    server: 45.143.131.150
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_185.200.65.32:443"
+    type: vless
+    server: 185.200.65.32
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_185.200.64.11:443"
+    type: vless
+    server: 185.200.64.11
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_45.143.235.138:2053"
+    type: vless
+    server: 45.143.235.138
+    port: 2053
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_91.199.209.182:443"
+    type: vless
+    server: 91.199.209.182
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_45.153.245.221:443"
+    type: vless
+    server: 45.153.245.221
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_109.107.140.133:443"
+    type: vless
+    server: 109.107.140.133
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_36.50.85.38:443"
+    type: vless
+    server: 36.50.85.38
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_109.107.140.105:443"
+    type: vless
+    server: 109.107.140.105
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_45.89.235.144:443"
+    type: vless
+    server: 45.89.235.144
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-JP CloudflareIP_45.153.247.119:443"
+    type: vless
+    server: 45.153.247.119
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-US_64.186.228.41:443"
+    type: vless
+    server: 64.186.228.41
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-US_64.186.246.65:443"
+    type: vless
+    server: 64.186.246.65
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-US_45.59.186.73:29453"
+    type: vless
+    server: 45.59.186.73
+    port: 29453
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-US_45.59.184.58:8443"
+    type: vless
+    server: 45.59.184.58
+    port: 8443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-US_45.59.187.68:33004"
+    type: vless
+    server: 45.59.187.68
+    port: 33004
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-US_45.59.184.18:443"
+    type: vless
+    server: 45.59.184.18
+    port: 443
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-US_64.186.248.143:54981"
+    type: vless
+    server: 64.186.248.143
+    port: 54981
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-US_45.59.187.71:8444"
+    type: vless
+    server: 45.59.187.71
+    port: 8444
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
+  - name: "别人-US_64.186.246.154:45068"
+    type: vless
+    server: 64.186.246.154
+    port: 45068
+    uuid: f0fabb2f-da3c-77a7-ee1e-7fbe7fe71c1b
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: 006xxxx.ssp.ndjp.net
+    network: ws
+    ws-opts:
+      path: "/pg/78978900-d858d435de7e2910"
+      headers:
+        Host: 006xxxx.ssp.ndjp.net
